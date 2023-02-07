@@ -1,0 +1,12 @@
+ECE 0301 - Matrix-Vector Computations,
+Determinants and Cramer's Rule.
+Global array dimension: DIM = 2
+Input file: N = 2
+
+A = 
+[        0.4       1.2 ]
+[        1.7      -3.2 ]
+
+b = 
+[         -2 ]
+[        8.1 ]

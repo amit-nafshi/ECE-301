@@ -1,0 +1,4878 @@
+ECE 0301: Circuit Solver for Voltage Divider
+and Wheatstone bridge example circuits.
+-----
+Circuit #1 (Voltage Divider)
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 1500 Ohms.
+Resistor: R2 = 2200 Ohms.
+
+Loop current: I = 0.00108108 Amperes.
+Resistor voltage: V1 = 1.62162 Volts.
+Resistor voltage: V2 = 2.37838 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 1500 Ohms.
+Resistor: R2 = 4400 Ohms.
+
+Loop current: I = 0.000677966 Amperes.
+Resistor voltage: V1 = 1.01695 Volts.
+Resistor voltage: V2 = 2.98305 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 1500 Ohms.
+Resistor: R2 = 6600 Ohms.
+
+Loop current: I = 0.000493827 Amperes.
+Resistor voltage: V1 = 0.740741 Volts.
+Resistor voltage: V2 = 3.25926 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 1500 Ohms.
+Resistor: R2 = 8800 Ohms.
+
+Loop current: I = 0.00038835 Amperes.
+Resistor voltage: V1 = 0.582524 Volts.
+Resistor voltage: V2 = 3.41748 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 1500 Ohms.
+Resistor: R2 = 11000 Ohms.
+
+Loop current: I = 0.00032 Amperes.
+Resistor voltage: V1 = 0.48 Volts.
+Resistor voltage: V2 = 3.52 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 3000 Ohms.
+Resistor: R2 = 2200 Ohms.
+
+Loop current: I = 0.000769231 Amperes.
+Resistor voltage: V1 = 2.30769 Volts.
+Resistor voltage: V2 = 1.69231 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 3000 Ohms.
+Resistor: R2 = 4400 Ohms.
+
+Loop current: I = 0.000540541 Amperes.
+Resistor voltage: V1 = 1.62162 Volts.
+Resistor voltage: V2 = 2.37838 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 3000 Ohms.
+Resistor: R2 = 6600 Ohms.
+
+Loop current: I = 0.000416667 Amperes.
+Resistor voltage: V1 = 1.25 Volts.
+Resistor voltage: V2 = 2.75 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 3000 Ohms.
+Resistor: R2 = 8800 Ohms.
+
+Loop current: I = 0.000338983 Amperes.
+Resistor voltage: V1 = 1.01695 Volts.
+Resistor voltage: V2 = 2.98305 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 3000 Ohms.
+Resistor: R2 = 11000 Ohms.
+
+Loop current: I = 0.000285714 Amperes.
+Resistor voltage: V1 = 0.857143 Volts.
+Resistor voltage: V2 = 3.14286 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 4500 Ohms.
+Resistor: R2 = 2200 Ohms.
+
+Loop current: I = 0.000597015 Amperes.
+Resistor voltage: V1 = 2.68657 Volts.
+Resistor voltage: V2 = 1.31343 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 4500 Ohms.
+Resistor: R2 = 4400 Ohms.
+
+Loop current: I = 0.000449438 Amperes.
+Resistor voltage: V1 = 2.02247 Volts.
+Resistor voltage: V2 = 1.97753 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 4500 Ohms.
+Resistor: R2 = 6600 Ohms.
+
+Loop current: I = 0.00036036 Amperes.
+Resistor voltage: V1 = 1.62162 Volts.
+Resistor voltage: V2 = 2.37838 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 4500 Ohms.
+Resistor: R2 = 8800 Ohms.
+
+Loop current: I = 0.000300752 Amperes.
+Resistor voltage: V1 = 1.35338 Volts.
+Resistor voltage: V2 = 2.64662 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 4500 Ohms.
+Resistor: R2 = 11000 Ohms.
+
+Loop current: I = 0.000258065 Amperes.
+Resistor voltage: V1 = 1.16129 Volts.
+Resistor voltage: V2 = 2.83871 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 6000 Ohms.
+Resistor: R2 = 2200 Ohms.
+
+Loop current: I = 0.000487805 Amperes.
+Resistor voltage: V1 = 2.92683 Volts.
+Resistor voltage: V2 = 1.07317 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 6000 Ohms.
+Resistor: R2 = 4400 Ohms.
+
+Loop current: I = 0.000384615 Amperes.
+Resistor voltage: V1 = 2.30769 Volts.
+Resistor voltage: V2 = 1.69231 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 6000 Ohms.
+Resistor: R2 = 6600 Ohms.
+
+Loop current: I = 0.00031746 Amperes.
+Resistor voltage: V1 = 1.90476 Volts.
+Resistor voltage: V2 = 2.09524 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 6000 Ohms.
+Resistor: R2 = 8800 Ohms.
+
+Loop current: I = 0.00027027 Amperes.
+Resistor voltage: V1 = 1.62162 Volts.
+Resistor voltage: V2 = 2.37838 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 6000 Ohms.
+Resistor: R2 = 11000 Ohms.
+
+Loop current: I = 0.000235294 Amperes.
+Resistor voltage: V1 = 1.41176 Volts.
+Resistor voltage: V2 = 2.58824 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 7500 Ohms.
+Resistor: R2 = 2200 Ohms.
+
+Loop current: I = 0.000412371 Amperes.
+Resistor voltage: V1 = 3.09278 Volts.
+Resistor voltage: V2 = 0.907216 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 7500 Ohms.
+Resistor: R2 = 4400 Ohms.
+
+Loop current: I = 0.000336134 Amperes.
+Resistor voltage: V1 = 2.52101 Volts.
+Resistor voltage: V2 = 1.47899 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 7500 Ohms.
+Resistor: R2 = 6600 Ohms.
+
+Loop current: I = 0.000283688 Amperes.
+Resistor voltage: V1 = 2.12766 Volts.
+Resistor voltage: V2 = 1.87234 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 7500 Ohms.
+Resistor: R2 = 8800 Ohms.
+
+Loop current: I = 0.000245399 Amperes.
+Resistor voltage: V1 = 1.84049 Volts.
+Resistor voltage: V2 = 2.15951 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 7500 Ohms.
+Resistor: R2 = 11000 Ohms.
+
+Loop current: I = 0.000216216 Amperes.
+Resistor voltage: V1 = 1.62162 Volts.
+Resistor voltage: V2 = 2.37838 Volts.
+-----
+Circuit #2 (Wheatstone Bridge)
+---
+Source voltage: Vs = 12 Volts.
+Source current: Is = 0.1 Amperes.
+Resistor: R1 = 150 Ohms.
+Resistor: R2 = 150 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 150 Ohms.
+Resistor: R5 = 150 Ohms.
+
+Resistor voltage: V1 = 6 Volts.
+Resistor current: I1 = 0.04 Amperes.
+Resistor voltage: V2 = -4.5 Volts.
+Resistor current: I2 = -0.03 Amperes.
+Resistor voltage: V3 = 10.5 Volts.
+Resistor current: I3 = 0.07 Amperes.
+Resistor voltage: V4 = 10.5 Volts.
+Resistor current: I4 = 0.07 Amperes.
+Resistor voltage: V5 = -4.5 Volts.
+Resistor current: I5 = -0.03 Amperes.
+-----
+Circuit #3 (Voltage Divider)
+---
+Source voltage: Vs = 5 Volts.
+Resistor: R1 = 1000 Ohms.
+Resistor: R2 = 800 Ohms.
+
+Loop current: I = 0.00277778 Amperes.
+Resistor voltage: V1 = 2.77778 Volts.
+Resistor voltage: V2 = 2.22222 Volts.
+---
+Source voltage: Vs = 5 Volts.
+Resistor: R1 = 1000 Ohms.
+Resistor: R2 = 1600 Ohms.
+
+Loop current: I = 0.00192308 Amperes.
+Resistor voltage: V1 = 1.92308 Volts.
+Resistor voltage: V2 = 3.07692 Volts.
+---
+Source voltage: Vs = 5 Volts.
+Resistor: R1 = 2000 Ohms.
+Resistor: R2 = 800 Ohms.
+
+Loop current: I = 0.00178571 Amperes.
+Resistor voltage: V1 = 3.57143 Volts.
+Resistor voltage: V2 = 1.42857 Volts.
+---
+Source voltage: Vs = 5 Volts.
+Resistor: R1 = 2000 Ohms.
+Resistor: R2 = 1600 Ohms.
+
+Loop current: I = 0.00138889 Amperes.
+Resistor voltage: V1 = 2.77778 Volts.
+Resistor voltage: V2 = 2.22222 Volts.
+-----
+Circuit #4 (Wheatstone Bridge)
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 13.3521 Volts.
+Resistor current: I1 = 0.044507 Amperes.
+Resistor voltage: V2 = -35.9155 Volts.
+Resistor current: I2 = -0.0897887 Amperes.
+Resistor voltage: V3 = 20.1444 Volts.
+Resistor current: I3 = 0.134296 Amperes.
+Resistor voltage: V4 = 33.0634 Volts.
+Resistor current: I4 = 0.110211 Amperes.
+Resistor voltage: V5 = -22.9965 Volts.
+Resistor current: I5 = -0.0657042 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 17.908 Volts.
+Resistor current: I1 = 0.0596934 Amperes.
+Resistor voltage: V2 = -38.5189 Volts.
+Resistor current: I2 = -0.0962972 Amperes.
+Resistor voltage: V3 = 23.3986 Volts.
+Resistor current: I3 = 0.155991 Amperes.
+Resistor voltage: V4 = 31.1108 Volts.
+Resistor current: I4 = 0.103703 Amperes.
+Resistor voltage: V5 = -30.8066 Volts.
+Resistor current: I5 = -0.0440094 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 20.2021 Volts.
+Resistor current: I1 = 0.0673404 Amperes.
+Resistor voltage: V2 = -39.8298 Volts.
+Resistor current: I2 = -0.0995745 Amperes.
+Resistor voltage: V3 = 25.0372 Volts.
+Resistor current: I3 = 0.166915 Amperes.
+Resistor voltage: V4 = 30.1277 Volts.
+Resistor current: I4 = 0.100426 Amperes.
+Resistor voltage: V5 = -34.7394 Volts.
+Resistor current: I5 = -0.0330851 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 8.13158 Volts.
+Resistor current: I1 = 0.0271053 Amperes.
+Resistor voltage: V2 = -47.0526 Volts.
+Resistor current: I2 = -0.117632 Amperes.
+Resistor voltage: V3 = 21.7105 Volts.
+Resistor current: I3 = 0.144737 Amperes.
+Resistor voltage: V4 = 49.4211 Volts.
+Resistor current: I4 = 0.0823684 Amperes.
+Resistor voltage: V5 = -19.3421 Volts.
+Resistor current: I5 = -0.0552632 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 12.2616 Volts.
+Resistor current: I1 = 0.0408719 Amperes.
+Resistor voltage: V2 = -48.7046 Volts.
+Resistor current: I2 = -0.121762 Amperes.
+Resistor voltage: V3 = 24.395 Volts.
+Resistor current: I3 = 0.162633 Amperes.
+Resistor voltage: V4 = 46.9431 Volts.
+Resistor current: I4 = 0.0782384 Amperes.
+Resistor voltage: V5 = -26.1566 Volts.
+Resistor current: I5 = -0.0373665 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 14.371 Volts.
+Resistor current: I1 = 0.0479032 Amperes.
+Resistor voltage: V2 = -49.5484 Volts.
+Resistor current: I2 = -0.123871 Amperes.
+Resistor voltage: V3 = 25.7661 Volts.
+Resistor current: I3 = 0.171774 Amperes.
+Resistor voltage: V4 = 45.6774 Volts.
+Resistor current: I4 = 0.076129 Amperes.
+Resistor voltage: V5 = -29.6371 Volts.
+Resistor current: I5 = -0.0282258 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 5.01681 Volts.
+Resistor current: I1 = 0.0167227 Amperes.
+Resistor voltage: V2 = -53.6975 Volts.
+Resistor current: I2 = -0.134244 Amperes.
+Resistor voltage: V3 = 22.645 Volts.
+Resistor current: I3 = 0.150966 Amperes.
+Resistor voltage: V4 = 59.1807 Volts.
+Resistor current: I4 = 0.0657563 Amperes.
+Resistor voltage: V5 = -17.1618 Volts.
+Resistor current: I5 = -0.0490336 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 8.84143 Volts.
+Resistor current: I1 = 0.0294714 Amperes.
+Resistor voltage: V2 = -54.8743 Volts.
+Resistor current: I2 = -0.137186 Amperes.
+Resistor voltage: V3 = 24.9986 Volts.
+Resistor current: I3 = 0.166657 Amperes.
+Resistor voltage: V4 = 56.5329 Volts.
+Resistor current: I4 = 0.0628143 Amperes.
+Resistor voltage: V5 = -23.34 Volts.
+Resistor current: I5 = -0.0333429 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 10.8117 Volts.
+Resistor current: I1 = 0.036039 Amperes.
+Resistor voltage: V2 = -55.4805 Volts.
+Resistor current: I2 = -0.138701 Amperes.
+Resistor voltage: V3 = 26.211 Volts.
+Resistor current: I3 = 0.17474 Amperes.
+Resistor voltage: V4 = 55.1688 Volts.
+Resistor current: I4 = 0.0612987 Amperes.
+Resistor voltage: V5 = -26.5227 Volts.
+Resistor current: I5 = -0.0252597 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 8.43314 Volts.
+Resistor current: I1 = 0.0281105 Amperes.
+Resistor voltage: V2 = -33.1047 Volts.
+Resistor current: I2 = -0.0827616 Amperes.
+Resistor voltage: V3 = 33.2616 Volts.
+Resistor current: I3 = 0.110872 Amperes.
+Resistor voltage: V4 = 35.1715 Volts.
+Resistor current: I4 = 0.117238 Amperes.
+Resistor voltage: V5 = -31.1948 Volts.
+Resistor current: I5 = -0.0891279 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 13.8471 Volts.
+Resistor current: I1 = 0.046157 Amperes.
+Resistor voltage: V2 = -36.1983 Volts.
+Resistor current: I2 = -0.0904959 Amperes.
+Resistor voltage: V3 = 40.9959 Volts.
+Resistor current: I3 = 0.136653 Amperes.
+Resistor voltage: V4 = 32.8512 Volts.
+Resistor current: I4 = 0.109504 Amperes.
+Resistor voltage: V5 = -44.343 Volts.
+Resistor current: I5 = -0.0633471 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 16.8317 Volts.
+Resistor current: I1 = 0.0561058 Amperes.
+Resistor voltage: V2 = -37.9038 Volts.
+Resistor current: I2 = -0.0947596 Amperes.
+Resistor voltage: V3 = 45.2596 Volts.
+Resistor current: I3 = 0.150865 Amperes.
+Resistor voltage: V4 = 31.5721 Volts.
+Resistor current: I4 = 0.10524 Amperes.
+Resistor voltage: V5 = -51.5913 Volts.
+Resistor current: I5 = -0.0491346 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 2.44323 Volts.
+Resistor current: I1 = 0.0081441 Amperes.
+Resistor voltage: V2 = -44.7773 Volts.
+Resistor current: I2 = -0.111943 Amperes.
+Resistor voltage: V3 = 36.0262 Volts.
+Resistor current: I3 = 0.120087 Amperes.
+Resistor voltage: V4 = 52.8341 Volts.
+Resistor current: I4 = 0.0880568 Amperes.
+Resistor voltage: V5 = -27.9694 Volts.
+Resistor current: I5 = -0.0799127 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 7.6875 Volts.
+Resistor current: I1 = 0.025625 Amperes.
+Resistor voltage: V2 = -46.875 Volts.
+Resistor current: I2 = -0.117188 Amperes.
+Resistor voltage: V3 = 42.8437 Volts.
+Resistor current: I3 = 0.142812 Amperes.
+Resistor voltage: V4 = 49.6875 Volts.
+Resistor current: I4 = 0.0828125 Amperes.
+Resistor voltage: V5 = -40.0312 Volts.
+Resistor current: I5 = -0.0571875 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 10.6095 Volts.
+Resistor current: I1 = 0.035365 Amperes.
+Resistor voltage: V2 = -48.0438 Volts.
+Resistor current: I2 = -0.120109 Amperes.
+Resistor voltage: V3 = 46.6423 Volts.
+Resistor current: I3 = 0.155474 Amperes.
+Resistor voltage: V4 = 47.9343 Volts.
+Resistor current: I4 = 0.0798905 Amperes.
+Resistor voltage: V5 = -46.7518 Volts.
+Resistor current: I5 = -0.0445255 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = -1.15909 Volts.
+Resistor current: I1 = -0.00386364 Amperes.
+Resistor voltage: V2 = -51.7972 Volts.
+Resistor current: I2 = -0.129493 Amperes.
+Resistor voltage: V3 = 37.6888 Volts.
+Resistor current: I3 = 0.125629 Amperes.
+Resistor voltage: V4 = 63.4563 Volts.
+Resistor current: I4 = 0.070507 Amperes.
+Resistor voltage: V5 = -26.0297 Volts.
+Resistor current: I5 = -0.0743706 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 3.94221 Volts.
+Resistor current: I1 = 0.0131407 Amperes.
+Resistor voltage: V2 = -53.3668 Volts.
+Resistor current: I2 = -0.133417 Amperes.
+Resistor voltage: V3 = 43.9673 Volts.
+Resistor current: I3 = 0.146558 Amperes.
+Resistor voltage: V4 = 59.9246 Volts.
+Resistor current: I4 = 0.0665829 Amperes.
+Resistor voltage: V5 = -37.4095 Volts.
+Resistor current: I5 = -0.0534422 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 6.80294 Volts.
+Resistor current: I1 = 0.0226765 Amperes.
+Resistor voltage: V2 = -54.2471 Volts.
+Resistor current: I2 = -0.135618 Amperes.
+Resistor voltage: V3 = 47.4882 Volts.
+Resistor current: I3 = 0.158294 Amperes.
+Resistor voltage: V4 = 57.9441 Volts.
+Resistor current: I4 = 0.0643824 Amperes.
+Resistor voltage: V5 = -43.7912 Volts.
+Resistor current: I5 = -0.0417059 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 4.97525 Volts.
+Resistor current: I1 = 0.0165842 Amperes.
+Resistor voltage: V2 = -31.1287 Volts.
+Resistor current: I2 = -0.0778218 Amperes.
+Resistor voltage: V3 = 42.4827 Volts.
+Resistor current: I3 = 0.0944059 Amperes.
+Resistor voltage: V4 = 36.6535 Volts.
+Resistor current: I4 = 0.122178 Amperes.
+Resistor voltage: V5 = -36.9579 Volts.
+Resistor current: I5 = -0.105594 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 10.682 Volts.
+Resistor current: I1 = 0.0356066 Amperes.
+Resistor voltage: V2 = -34.3897 Volts.
+Resistor current: I2 = -0.0859743 Amperes.
+Resistor voltage: V3 = 54.7114 Volts.
+Resistor current: I3 = 0.121581 Amperes.
+Resistor voltage: V4 = 34.2077 Volts.
+Resistor current: I4 = 0.114026 Amperes.
+Resistor voltage: V5 = -54.8934 Volts.
+Resistor current: I5 = -0.0784191 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 14.0526 Volts.
+Resistor current: I1 = 0.0468421 Amperes.
+Resistor voltage: V2 = -36.3158 Volts.
+Resistor current: I2 = -0.0907895 Amperes.
+Resistor voltage: V3 = 61.9342 Volts.
+Resistor current: I3 = 0.137632 Amperes.
+Resistor voltage: V4 = 32.7632 Volts.
+Resistor current: I4 = 0.109211 Amperes.
+Resistor voltage: V5 = -65.4868 Volts.
+Resistor current: I5 = -0.0623684 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = -1.58955 Volts.
+Resistor current: I1 = -0.00529851 Amperes.
+Resistor voltage: V2 = -43.1642 Volts.
+Resistor current: I2 = -0.10791 Amperes.
+Resistor voltage: V3 = 46.1754 Volts.
+Resistor current: I3 = 0.102612 Amperes.
+Resistor voltage: V4 = 55.2537 Volts.
+Resistor current: I4 = 0.0920896 Amperes.
+Resistor voltage: V5 = -34.0858 Volts.
+Resistor current: I5 = -0.0973881 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 4.10724 Volts.
+Resistor current: I1 = 0.0136908 Amperes.
+Resistor voltage: V2 = -45.4429 Volts.
+Resistor current: I2 = -0.113607 Amperes.
+Resistor voltage: V3 = 57.2841 Volts.
+Resistor current: I3 = 0.127298 Amperes.
+Resistor voltage: V4 = 51.8357 Volts.
+Resistor current: I4 = 0.0863928 Amperes.
+Resistor voltage: V5 = -50.8914 Volts.
+Resistor current: I5 = -0.0727019 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 7.5 Volts.
+Resistor current: I1 = 0.025 Amperes.
+Resistor voltage: V2 = -46.8 Volts.
+Resistor current: I2 = -0.117 Amperes.
+Resistor voltage: V3 = 63.9 Volts.
+Resistor current: I3 = 0.142 Amperes.
+Resistor voltage: V4 = 49.8 Volts.
+Resistor current: I4 = 0.083 Amperes.
+Resistor voltage: V5 = -60.9 Volts.
+Resistor current: I5 = -0.058 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = -5.55988 Volts.
+Resistor current: I1 = -0.0185329 Amperes.
+Resistor voltage: V2 = -50.4431 Volts.
+Resistor current: I2 = -0.126108 Amperes.
+Resistor voltage: V3 = 48.4087 Volts.
+Resistor current: I3 = 0.107575 Amperes.
+Resistor voltage: V4 = 66.503 Volts.
+Resistor current: I4 = 0.0738922 Amperes.
+Resistor voltage: V5 = -32.3488 Volts.
+Resistor current: I5 = -0.0924251 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 0.0975336 Volts.
+Resistor current: I1 = 0.000325112 Amperes.
+Resistor voltage: V2 = -52.1839 Volts.
+Resistor current: I2 = -0.13046 Amperes.
+Resistor voltage: V3 = 58.8531 Volts.
+Resistor current: I3 = 0.130785 Amperes.
+Resistor voltage: V4 = 62.5863 Volts.
+Resistor current: I4 = 0.0695404 Amperes.
+Resistor voltage: V5 = -48.4507 Volts.
+Resistor current: I5 = -0.0692152 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 3.48387 Volts.
+Resistor current: I1 = 0.0116129 Amperes.
+Resistor voltage: V2 = -53.2258 Volts.
+Resistor current: I2 = -0.133065 Amperes.
+Resistor voltage: V3 = 65.1048 Volts.
+Resistor current: I3 = 0.144677 Amperes.
+Resistor voltage: V4 = 60.2419 Volts.
+Resistor current: I4 = 0.0669355 Amperes.
+Resistor voltage: V5 = -58.0887 Volts.
+Resistor current: I5 = -0.0553226 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 18.5825 Volts.
+Resistor current: I1 = 0.0619417 Amperes.
+Resistor voltage: V2 = -49.5146 Volts.
+Resistor current: I2 = -0.0618932 Amperes.
+Resistor voltage: V3 = 18.5752 Volts.
+Resistor current: I3 = 0.123835 Amperes.
+Resistor voltage: V4 = 41.432 Volts.
+Resistor current: I4 = 0.138107 Amperes.
+Resistor voltage: V5 = -26.6578 Volts.
+Resistor current: I5 = -0.076165 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 24.3701 Volts.
+Resistor current: I1 = 0.0812336 Amperes.
+Resistor voltage: V2 = -53.7237 Volts.
+Resistor current: I2 = -0.0671546 Amperes.
+Resistor voltage: V3 = 22.2582 Volts.
+Resistor current: I3 = 0.148388 Amperes.
+Resistor voltage: V4 = 39.8536 Volts.
+Resistor current: I4 = 0.132845 Amperes.
+Resistor voltage: V5 = -36.1283 Volts.
+Resistor current: I5 = -0.0516118 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 27.3358 Volts.
+Resistor current: I1 = 0.0911194 Amperes.
+Resistor voltage: V2 = -55.8806 Volts.
+Resistor current: I2 = -0.0698507 Amperes.
+Resistor voltage: V3 = 24.1455 Volts.
+Resistor current: I3 = 0.16097 Amperes.
+Resistor voltage: V4 = 39.0448 Volts.
+Resistor current: I4 = 0.130149 Amperes.
+Resistor voltage: V5 = -40.9813 Volts.
+Resistor current: I5 = -0.0390299 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 13.689 Volts.
+Resistor current: I1 = 0.0456299 Amperes.
+Resistor voltage: V2 = -70.3937 Volts.
+Resistor current: I2 = -0.0879921 Amperes.
+Resistor voltage: V3 = 20.0433 Volts.
+Resistor current: I3 = 0.133622 Amperes.
+Resistor voltage: V4 = 67.2047 Volts.
+Resistor current: I4 = 0.112008 Amperes.
+Resistor voltage: V5 = -23.2323 Volts.
+Resistor current: I5 = -0.066378 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 18.9209 Volts.
+Resistor current: I1 = 0.0630697 Amperes.
+Resistor voltage: V2 = -73.3834 Volts.
+Resistor current: I2 = -0.0917292 Amperes.
+Resistor voltage: V3 = 23.2198 Volts.
+Resistor current: I3 = 0.154799 Amperes.
+Resistor voltage: V4 = 64.9625 Volts.
+Resistor current: I4 = 0.108271 Amperes.
+Resistor voltage: V5 = -31.6408 Volts.
+Resistor current: I5 = -0.0452011 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 21.622 Volts.
+Resistor current: I1 = 0.0720732 Amperes.
+Resistor voltage: V2 = -74.9268 Volts.
+Resistor current: I2 = -0.0936585 Amperes.
+Resistor voltage: V3 = 24.8598 Volts.
+Resistor current: I3 = 0.165732 Amperes.
+Resistor voltage: V4 = 63.8049 Volts.
+Resistor current: I4 = 0.106341 Amperes.
+Resistor voltage: V5 = -35.9817 Volts.
+Resistor current: I5 = -0.0342683 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 10.351 Volts.
+Resistor current: I1 = 0.0345033 Amperes.
+Resistor voltage: V2 = -84.6358 Volts.
+Resistor current: I2 = -0.105795 Amperes.
+Resistor voltage: V3 = 21.0447 Volts.
+Resistor current: I3 = 0.140298 Amperes.
+Resistor voltage: V4 = 84.7848 Volts.
+Resistor current: I4 = 0.0942053 Amperes.
+Resistor voltage: V5 = -20.8957 Volts.
+Resistor current: I5 = -0.059702 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 15.1731 Volts.
+Resistor current: I1 = 0.0505769 Amperes.
+Resistor voltage: V2 = -86.905 Volts.
+Resistor current: I2 = -0.108631 Amperes.
+Resistor voltage: V3 = 23.8812 Volts.
+Resistor current: I3 = 0.159208 Amperes.
+Resistor voltage: V4 = 82.2319 Volts.
+Resistor current: I4 = 0.0913688 Amperes.
+Resistor voltage: V5 = -28.5543 Volts.
+Resistor current: I5 = -0.0407919 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 17.6753 Volts.
+Resistor current: I1 = 0.0589175 Amperes.
+Resistor voltage: V2 = -88.0825 Volts.
+Resistor current: I2 = -0.110103 Amperes.
+Resistor voltage: V3 = 25.3531 Volts.
+Resistor current: I3 = 0.169021 Amperes.
+Resistor voltage: V4 = 80.9072 Volts.
+Resistor current: I4 = 0.0898969 Amperes.
+Resistor voltage: V5 = -32.5284 Volts.
+Resistor current: I5 = -0.0309794 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 13.6391 Volts.
+Resistor current: I1 = 0.0454637 Amperes.
+Resistor voltage: V2 = -45.9194 Volts.
+Resistor current: I2 = -0.0573992 Amperes.
+Resistor voltage: V3 = 30.8589 Volts.
+Resistor current: I3 = 0.102863 Amperes.
+Resistor voltage: V4 = 42.7802 Volts.
+Resistor current: I4 = 0.142601 Amperes.
+Resistor voltage: V5 = -33.998 Volts.
+Resistor current: I5 = -0.0971371 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 20.1243 Volts.
+Resistor current: I1 = 0.0670809 Amperes.
+Resistor voltage: V2 = -50.6358 Volts.
+Resistor current: I2 = -0.0632948 Amperes.
+Resistor voltage: V3 = 39.1127 Volts.
+Resistor current: I3 = 0.130376 Amperes.
+Resistor voltage: V4 = 41.0116 Volts.
+Resistor current: I4 = 0.136705 Amperes.
+Resistor voltage: V5 = -48.737 Volts.
+Resistor current: I5 = -0.0696243 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 23.7466 Volts.
+Resistor current: I1 = 0.0791554 Amperes.
+Resistor voltage: V2 = -53.2703 Volts.
+Resistor current: I2 = -0.0665878 Amperes.
+Resistor voltage: V3 = 43.723 Volts.
+Resistor current: I3 = 0.145743 Amperes.
+Resistor voltage: V4 = 40.0236 Volts.
+Resistor current: I4 = 0.133412 Amperes.
+Resistor voltage: V5 = -56.9696 Volts.
+Resistor current: I5 = -0.0542568 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 8.16885 Volts.
+Resistor current: I1 = 0.0272295 Amperes.
+Resistor voltage: V2 = -67.2393 Volts.
+Resistor current: I2 = -0.0840492 Amperes.
+Resistor voltage: V3 = 33.3836 Volts.
+Resistor current: I3 = 0.111279 Amperes.
+Resistor voltage: V4 = 69.5705 Volts.
+Resistor current: I4 = 0.115951 Amperes.
+Resistor voltage: V5 = -31.0525 Volts.
+Resistor current: I5 = -0.0887213 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 14.3208 Volts.
+Resistor current: I1 = 0.0477358 Amperes.
+Resistor voltage: V2 = -70.7547 Volts.
+Resistor current: I2 = -0.0884434 Amperes.
+Resistor voltage: V3 = 40.8538 Volts.
+Resistor current: I3 = 0.136179 Amperes.
+Resistor voltage: V4 = 66.934 Volts.
+Resistor current: I4 = 0.111557 Amperes.
+Resistor voltage: V5 = -44.6745 Volts.
+Resistor current: I5 = -0.0638208 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 17.7762 Volts.
+Resistor current: I1 = 0.0592541 Amperes.
+Resistor voltage: V2 = -72.7293 Volts.
+Resistor current: I2 = -0.0909116 Amperes.
+Resistor voltage: V3 = 45.0497 Volts.
+Resistor current: I3 = 0.150166 Amperes.
+Resistor voltage: V4 = 65.453 Volts.
+Resistor current: I4 = 0.109088 Amperes.
+Resistor voltage: V5 = -52.326 Volts.
+Resistor current: I5 = -0.0498343 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 4.42127 Volts.
+Resistor current: I1 = 0.0147376 Amperes.
+Resistor voltage: V2 = -81.8453 Volts.
+Resistor current: I2 = -0.102307 Amperes.
+Resistor voltage: V3 = 35.1133 Volts.
+Resistor current: I3 = 0.117044 Amperes.
+Resistor voltage: V4 = 87.924 Volts.
+Resistor current: I4 = 0.0976934 Amperes.
+Resistor voltage: V5 = -29.0345 Volts.
+Resistor current: I5 = -0.0829558 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 10.3207 Volts.
+Resistor current: I1 = 0.0344024 Amperes.
+Resistor voltage: V2 = -84.6215 Volts.
+Resistor current: I2 = -0.105777 Amperes.
+Resistor voltage: V3 = 42.0538 Volts.
+Resistor current: I3 = 0.140179 Amperes.
+Resistor voltage: V4 = 84.8008 Volts.
+Resistor current: I4 = 0.0942231 Amperes.
+Resistor voltage: V5 = -41.8745 Volts.
+Resistor current: I5 = -0.0598207 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 13.6472 Volts.
+Resistor current: I1 = 0.0454907 Amperes.
+Resistor voltage: V2 = -86.1869 Volts.
+Resistor current: I2 = -0.107734 Amperes.
+Resistor voltage: V3 = 45.9673 Volts.
+Resistor current: I3 = 0.153224 Amperes.
+Resistor voltage: V4 = 83.0397 Volts.
+Resistor current: I4 = 0.0922664 Amperes.
+Resistor voltage: V5 = -49.1145 Volts.
+Resistor current: I5 = -0.0467757 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 10.1276 Volts.
+Resistor current: I1 = 0.0337586 Amperes.
+Resistor voltage: V2 = -43.3655 Volts.
+Resistor current: I2 = -0.0542069 Amperes.
+Resistor voltage: V3 = 39.5845 Volts.
+Resistor current: I3 = 0.0879655 Amperes.
+Resistor voltage: V4 = 43.7379 Volts.
+Resistor current: I4 = 0.145793 Amperes.
+Resistor voltage: V5 = -39.2121 Volts.
+Resistor current: I5 = -0.112034 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 16.7977 Volts.
+Resistor current: I1 = 0.0559923 Amperes.
+Resistor voltage: V2 = -48.2165 Volts.
+Resistor current: I2 = -0.0602706 Amperes.
+Resistor voltage: V3 = 52.3183 Volts.
+Resistor current: I3 = 0.116263 Amperes.
+Resistor voltage: V4 = 41.9188 Volts.
+Resistor current: I4 = 0.139729 Amperes.
+Resistor voltage: V5 = -58.616 Volts.
+Resistor current: I5 = -0.0837371 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 20.7778 Volts.
+Resistor current: I1 = 0.0692593 Amperes.
+Resistor voltage: V2 = -51.1111 Volts.
+Resistor current: I2 = -0.0638889 Amperes.
+Resistor voltage: V3 = 59.9167 Volts.
+Resistor current: I3 = 0.133148 Amperes.
+Resistor voltage: V4 = 40.8333 Volts.
+Resistor current: I4 = 0.136111 Amperes.
+Resistor voltage: V5 = -70.1944 Volts.
+Resistor current: I5 = -0.0668519 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 4.23034 Volts.
+Resistor current: I1 = 0.0141011 Amperes.
+Resistor voltage: V2 = -64.9888 Volts.
+Resistor current: I2 = -0.081236 Amperes.
+Resistor voltage: V3 = 42.9017 Volts.
+Resistor current: I3 = 0.0953371 Amperes.
+Resistor voltage: V4 = 71.2584 Volts.
+Resistor current: I4 = 0.118764 Amperes.
+Resistor voltage: V5 = -36.632 Volts.
+Resistor current: I5 = -0.104663 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 10.7084 Volts.
+Resistor current: I1 = 0.0356947 Amperes.
+Resistor voltage: V2 = -68.6905 Volts.
+Resistor current: I2 = -0.0858632 Amperes.
+Resistor voltage: V3 = 54.7011 Volts.
+Resistor current: I3 = 0.121558 Amperes.
+Resistor voltage: V4 = 68.4821 Volts.
+Resistor current: I4 = 0.114137 Amperes.
+Resistor voltage: V5 = -54.9095 Volts.
+Resistor current: I5 = -0.0784421 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 14.5909 Volts.
+Resistor current: I1 = 0.0486364 Amperes.
+Resistor voltage: V2 = -70.9091 Volts.
+Resistor current: I2 = -0.0886364 Amperes.
+Resistor voltage: V3 = 61.7727 Volts.
+Resistor current: I3 = 0.137273 Amperes.
+Resistor voltage: V4 = 66.8182 Volts.
+Resistor current: I4 = 0.111364 Amperes.
+Resistor voltage: V5 = -65.8636 Volts.
+Resistor current: I5 = -0.0627273 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 0.177725 Volts.
+Resistor current: I1 = 0.000592417 Amperes.
+Resistor voltage: V2 = -79.8483 Volts.
+Resistor current: I2 = -0.0998104 Amperes.
+Resistor voltage: V3 = 45.1813 Volts.
+Resistor current: I3 = 0.100403 Amperes.
+Resistor voltage: V4 = 90.1706 Volts.
+Resistor current: I4 = 0.10019 Amperes.
+Resistor voltage: V5 = -34.859 Volts.
+Resistor current: I5 = -0.0995972 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 6.50445 Volts.
+Resistor current: I1 = 0.0216815 Amperes.
+Resistor voltage: V2 = -82.8256 Volts.
+Resistor current: I2 = -0.103532 Amperes.
+Resistor voltage: V3 = 56.3461 Volts.
+Resistor current: I3 = 0.125214 Amperes.
+Resistor voltage: V4 = 86.8212 Volts.
+Resistor current: I4 = 0.096468 Amperes.
+Resistor voltage: V5 = -52.3505 Volts.
+Resistor current: I5 = -0.0747865 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 10.3077 Volts.
+Resistor current: I1 = 0.034359 Amperes.
+Resistor voltage: V2 = -84.6154 Volts.
+Resistor current: I2 = -0.105769 Amperes.
+Resistor voltage: V3 = 63.0577 Volts.
+Resistor current: I3 = 0.140128 Amperes.
+Resistor voltage: V4 = 84.8077 Volts.
+Resistor current: I4 = 0.0942308 Amperes.
+Resistor voltage: V5 = -62.8654 Volts.
+Resistor current: I5 = -0.0598718 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 21.3333 Volts.
+Resistor current: I1 = 0.0711111 Amperes.
+Resistor voltage: V2 = -56.6667 Volts.
+Resistor current: I2 = -0.0472222 Amperes.
+Resistor voltage: V3 = 17.75 Volts.
+Resistor current: I3 = 0.118333 Amperes.
+Resistor voltage: V4 = 45.8333 Volts.
+Resistor current: I4 = 0.152778 Amperes.
+Resistor voltage: V5 = -28.5833 Volts.
+Resistor current: I5 = -0.0816667 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 27.8295 Volts.
+Resistor current: I1 = 0.0927652 Amperes.
+Resistor voltage: V2 = -61.8636 Volts.
+Resistor current: I2 = -0.051553 Amperes.
+Resistor voltage: V3 = 21.6477 Volts.
+Resistor current: I3 = 0.144318 Amperes.
+Resistor voltage: V4 = 44.5341 Volts.
+Resistor current: I4 = 0.148447 Amperes.
+Resistor voltage: V5 = -38.9773 Volts.
+Resistor current: I5 = -0.0556818 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 31.1897 Volts.
+Resistor current: I1 = 0.103966 Amperes.
+Resistor voltage: V2 = -64.5517 Volts.
+Resistor current: I2 = -0.0537931 Amperes.
+Resistor voltage: V3 = 23.6638 Volts.
+Resistor current: I3 = 0.157759 Amperes.
+Resistor voltage: V4 = 43.8621 Volts.
+Resistor current: I4 = 0.146207 Amperes.
+Resistor voltage: V5 = -44.3534 Volts.
+Resistor current: I5 = -0.0422414 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 17.0094 Volts.
+Resistor current: I1 = 0.0566981 Amperes.
+Resistor voltage: V2 = -84.3396 Volts.
+Resistor current: I2 = -0.070283 Amperes.
+Resistor voltage: V3 = 19.0472 Volts.
+Resistor current: I3 = 0.126981 Amperes.
+Resistor voltage: V4 = 77.8302 Volts.
+Resistor current: I4 = 0.129717 Amperes.
+Resistor voltage: V5 = -25.5566 Volts.
+Resistor current: I5 = -0.0730189 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 22.9452 Volts.
+Resistor current: I1 = 0.0764839 Amperes.
+Resistor voltage: V2 = -88.2968 Volts.
+Resistor current: I2 = -0.0735806 Amperes.
+Resistor voltage: V3 = 22.5097 Volts.
+Resistor current: I3 = 0.150065 Amperes.
+Resistor voltage: V4 = 75.8516 Volts.
+Resistor current: I4 = 0.126419 Amperes.
+Resistor voltage: V5 = -34.9548 Volts.
+Resistor current: I5 = -0.0499355 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 26.0294 Volts.
+Resistor current: I1 = 0.0867647 Amperes.
+Resistor voltage: V2 = -90.3529 Volts.
+Resistor current: I2 = -0.0752941 Amperes.
+Resistor voltage: V3 = 24.3088 Volts.
+Resistor current: I3 = 0.162059 Amperes.
+Resistor voltage: V4 = 74.8235 Volts.
+Resistor current: I4 = 0.124706 Amperes.
+Resistor voltage: V5 = -39.8382 Volts.
+Resistor current: I5 = -0.0379412 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 13.8197 Volts.
+Resistor current: I1 = 0.0460656 Amperes.
+Resistor voltage: V2 = -104.754 Volts.
+Resistor current: I2 = -0.0872951 Amperes.
+Resistor voltage: V3 = 20.0041 Volts.
+Resistor current: I3 = 0.133361 Amperes.
+Resistor voltage: V4 = 101.434 Volts.
+Resistor current: I4 = 0.112705 Amperes.
+Resistor voltage: V5 = -23.3238 Volts.
+Resistor current: I5 = -0.0666393 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 19.323 Volts.
+Resistor current: I1 = 0.0644101 Amperes.
+Resistor voltage: V2 = -107.899 Volts.
+Resistor current: I2 = -0.0899157 Amperes.
+Resistor voltage: V3 = 23.1489 Volts.
+Resistor current: I3 = 0.154326 Amperes.
+Resistor voltage: V4 = 99.0758 Volts.
+Resistor current: I4 = 0.110084 Amperes.
+Resistor voltage: V5 = -31.9719 Volts.
+Resistor current: I5 = -0.0456742 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 22.1923 Volts.
+Resistor current: I1 = 0.0739744 Amperes.
+Resistor voltage: V2 = -109.538 Volts.
+Resistor current: I2 = -0.0912821 Amperes.
+Resistor voltage: V3 = 24.7885 Volts.
+Resistor current: I3 = 0.165256 Amperes.
+Resistor voltage: V4 = 97.8462 Volts.
+Resistor current: I4 = 0.108718 Amperes.
+Resistor voltage: V5 = -36.4808 Volts.
+Resistor current: I5 = -0.0347436 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 16.4028 Volts.
+Resistor current: I1 = 0.0546759 Amperes.
+Resistor voltage: V2 = -52.7222 Volts.
+Resistor current: I2 = -0.0439352 Amperes.
+Resistor voltage: V3 = 29.5833 Volts.
+Resistor current: I3 = 0.0986111 Amperes.
+Resistor voltage: V4 = 46.8194 Volts.
+Resistor current: I4 = 0.156065 Amperes.
+Resistor voltage: V5 = -35.4861 Volts.
+Resistor current: I5 = -0.101389 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 23.5 Volts.
+Resistor current: I1 = 0.0783333 Amperes.
+Resistor voltage: V2 = -58.4 Volts.
+Resistor current: I2 = -0.0486667 Amperes.
+Resistor voltage: V3 = 38.1 Volts.
+Resistor current: I3 = 0.127 Amperes.
+Resistor voltage: V4 = 45.4 Volts.
+Resistor current: I4 = 0.151333 Amperes.
+Resistor voltage: V5 = -51.1 Volts.
+Resistor current: I5 = -0.073 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 27.4922 Volts.
+Resistor current: I1 = 0.0916406 Amperes.
+Resistor voltage: V2 = -61.5938 Volts.
+Resistor current: I2 = -0.0513281 Amperes.
+Resistor voltage: V3 = 42.8906 Volts.
+Resistor current: I3 = 0.142969 Amperes.
+Resistor voltage: V4 = 44.6016 Volts.
+Resistor current: I4 = 0.148672 Amperes.
+Resistor voltage: V5 = -59.8828 Volts.
+Resistor current: I5 = -0.0570312 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 11.6102 Volts.
+Resistor current: I1 = 0.0387008 Amperes.
+Resistor voltage: V2 = -80.7402 Volts.
+Resistor current: I2 = -0.0672835 Amperes.
+Resistor voltage: V3 = 31.7953 Volts.
+Resistor current: I3 = 0.105984 Amperes.
+Resistor voltage: V4 = 79.6299 Volts.
+Resistor current: I4 = 0.132717 Amperes.
+Resistor voltage: V5 = -32.9055 Volts.
+Resistor current: I5 = -0.0940157 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 18.3409 Volts.
+Resistor current: I1 = 0.0611364 Amperes.
+Resistor voltage: V2 = -85.2273 Volts.
+Resistor current: I2 = -0.0710227 Amperes.
+Resistor voltage: V3 = 39.6477 Volts.
+Resistor current: I3 = 0.132159 Amperes.
+Resistor voltage: V4 = 77.3864 Volts.
+Resistor current: I4 = 0.128977 Amperes.
+Resistor voltage: V5 = -47.4886 Volts.
+Resistor current: I5 = -0.0678409 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 22.14 Volts.
+Resistor current: I1 = 0.0738 Amperes.
+Resistor voltage: V2 = -87.76 Volts.
+Resistor current: I2 = -0.0731333 Amperes.
+Resistor voltage: V3 = 44.08 Volts.
+Resistor current: I3 = 0.146933 Amperes.
+Resistor voltage: V4 = 76.12 Volts.
+Resistor current: I4 = 0.126867 Amperes.
+Resistor voltage: V5 = -55.72 Volts.
+Resistor current: I5 = -0.0530667 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 8.06507 Volts.
+Resistor current: I1 = 0.0268836 Amperes.
+Resistor voltage: V2 = -101.466 Volts.
+Resistor current: I2 = -0.0845548 Amperes.
+Resistor voltage: V3 = 33.4315 Volts.
+Resistor current: I3 = 0.111438 Amperes.
+Resistor voltage: V4 = 103.901 Volts.
+Resistor current: I4 = 0.115445 Amperes.
+Resistor voltage: V5 = -30.9966 Volts.
+Resistor current: I5 = -0.0885616 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 14.5099 Volts.
+Resistor current: I1 = 0.0483663 Amperes.
+Resistor voltage: V2 = -105.149 Volts.
+Resistor current: I2 = -0.0876238 Amperes.
+Resistor voltage: V3 = 40.797 Volts.
+Resistor current: I3 = 0.13599 Amperes.
+Resistor voltage: V4 = 101.139 Volts.
+Resistor current: I4 = 0.112376 Amperes.
+Resistor voltage: V5 = -44.8069 Volts.
+Resistor current: I5 = -0.0640099 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 18.157 Volts.
+Resistor current: I1 = 0.0605233 Amperes.
+Resistor voltage: V2 = -107.233 Volts.
+Resistor current: I2 = -0.0893605 Amperes.
+Resistor voltage: V3 = 44.9651 Volts.
+Resistor current: I3 = 0.149884 Amperes.
+Resistor voltage: V4 = 99.5756 Volts.
+Resistor current: I4 = 0.11064 Amperes.
+Resistor voltage: V5 = -52.6221 Volts.
+Resistor current: I5 = -0.0501163 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 12.881 Volts.
+Resistor current: I1 = 0.0429365 Amperes.
+Resistor voltage: V2 = -49.9048 Volts.
+Resistor current: I2 = -0.0415873 Amperes.
+Resistor voltage: V3 = 38.0357 Volts.
+Resistor current: I3 = 0.0845238 Amperes.
+Resistor voltage: V4 = 47.5238 Volts.
+Resistor current: I4 = 0.158413 Amperes.
+Resistor voltage: V5 = -40.4167 Volts.
+Resistor current: I5 = -0.115476 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 20.0982 Volts.
+Resistor current: I1 = 0.066994 Amperes.
+Resistor voltage: V2 = -55.6786 Volts.
+Resistor current: I2 = -0.0463988 Amperes.
+Resistor voltage: V3 = 51.0268 Volts.
+Resistor current: I3 = 0.113393 Amperes.
+Resistor voltage: V4 = 46.0804 Volts.
+Resistor current: I4 = 0.153601 Amperes.
+Resistor voltage: V5 = -60.625 Volts.
+Resistor current: I5 = -0.0866071 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 24.4286 Volts.
+Resistor current: I1 = 0.0814286 Amperes.
+Resistor voltage: V2 = -59.1429 Volts.
+Resistor current: I2 = -0.0492857 Amperes.
+Resistor voltage: V3 = 58.8214 Volts.
+Resistor current: I3 = 0.130714 Amperes.
+Resistor voltage: V4 = 45.2143 Volts.
+Resistor current: I4 = 0.150714 Amperes.
+Resistor voltage: V5 = -72.75 Volts.
+Resistor current: I5 = -0.0692857 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 7.74324 Volts.
+Resistor current: I1 = 0.0258108 Amperes.
+Resistor voltage: V2 = -78.1622 Volts.
+Resistor current: I2 = -0.0651351 Amperes.
+Resistor voltage: V3 = 40.9257 Volts.
+Resistor current: I3 = 0.0909459 Amperes.
+Resistor voltage: V4 = 80.9189 Volts.
+Resistor current: I4 = 0.134865 Amperes.
+Resistor voltage: V5 = -38.1689 Volts.
+Resistor current: I5 = -0.109054 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 14.7183 Volts.
+Resistor current: I1 = 0.0490609 Amperes.
+Resistor voltage: V2 = -82.8122 Volts.
+Resistor current: I2 = -0.0690102 Amperes.
+Resistor voltage: V3 = 53.132 Volts.
+Resistor current: I3 = 0.118071 Amperes.
+Resistor voltage: V4 = 78.5939 Volts.
+Resistor current: I4 = 0.13099 Amperes.
+Resistor voltage: V5 = -57.3503 Volts.
+Resistor current: I5 = -0.0819289 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 18.9146 Volts.
+Resistor current: I1 = 0.0630488 Amperes.
+Resistor voltage: V2 = -85.6098 Volts.
+Resistor current: I2 = -0.0713415 Amperes.
+Resistor voltage: V3 = 60.4756 Volts.
+Resistor current: I3 = 0.13439 Amperes.
+Resistor voltage: V4 = 77.1951 Volts.
+Resistor current: I4 = 0.128659 Amperes.
+Resistor voltage: V5 = -68.8902 Volts.
+Resistor current: I5 = -0.0656098 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 3.93529 Volts.
+Resistor current: I1 = 0.0131176 Amperes.
+Resistor voltage: V2 = -99.1059 Volts.
+Resistor current: I2 = -0.0825882 Amperes.
+Resistor voltage: V3 = 43.0676 Volts.
+Resistor current: I3 = 0.0957059 Amperes.
+Resistor voltage: V4 = 105.671 Volts.
+Resistor current: I4 = 0.117412 Amperes.
+Resistor voltage: V5 = -36.5029 Volts.
+Resistor current: I5 = -0.104294 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 10.719 Volts.
+Resistor current: I1 = 0.0357301 Amperes.
+Resistor voltage: V2 = -102.982 Volts.
+Resistor current: I2 = -0.0858186 Amperes.
+Resistor voltage: V3 = 54.6969 Volts.
+Resistor current: I3 = 0.121549 Amperes.
+Resistor voltage: V4 = 102.763 Volts.
+Resistor current: I4 = 0.114181 Amperes.
+Resistor voltage: V5 = -54.9159 Volts.
+Resistor current: I5 = -0.0784513 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 300 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 14.8085 Volts.
+Resistor current: I1 = 0.0493617 Amperes.
+Resistor voltage: V2 = -105.319 Volts.
+Resistor current: I2 = -0.087766 Amperes.
+Resistor voltage: V3 = 61.7074 Volts.
+Resistor current: I3 = 0.137128 Amperes.
+Resistor voltage: V4 = 101.011 Volts.
+Resistor current: I4 = 0.112234 Amperes.
+Resistor voltage: V5 = -66.016 Volts.
+Resistor current: I5 = -0.0628723 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 17.7196 Volts.
+Resistor current: I1 = 0.0295327 Amperes.
+Resistor voltage: V2 = -38.4112 Volts.
+Resistor current: I2 = -0.096028 Amperes.
+Resistor voltage: V3 = 18.8341 Volts.
+Resistor current: I3 = 0.125561 Amperes.
+Resistor voltage: V4 = 31.1916 Volts.
+Resistor current: I4 = 0.103972 Amperes.
+Resistor voltage: V5 = -26.0537 Volts.
+Resistor current: I5 = -0.0744393 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 24.8951 Volts.
+Resistor current: I1 = 0.0414918 Amperes.
+Resistor voltage: V2 = -42.5115 Volts.
+Resistor current: I2 = -0.106279 Amperes.
+Resistor voltage: V3 = 22.1656 Volts.
+Resistor current: I3 = 0.14777 Amperes.
+Resistor voltage: V4 = 28.1164 Volts.
+Resistor current: I4 = 0.0937213 Amperes.
+Resistor voltage: V5 = -36.5607 Volts.
+Resistor current: I5 = -0.0522295 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 28.7727 Volts.
+Resistor current: I1 = 0.0479545 Amperes.
+Resistor voltage: V2 = -44.7273 Volts.
+Resistor current: I2 = -0.111818 Amperes.
+Resistor voltage: V3 = 23.9659 Volts.
+Resistor current: I3 = 0.159773 Amperes.
+Resistor voltage: V4 = 26.4545 Volts.
+Resistor current: I4 = 0.0881818 Amperes.
+Resistor voltage: V5 = -42.2386 Volts.
+Resistor current: I5 = -0.0402273 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 11.0357 Volts.
+Resistor current: I1 = 0.0183929 Amperes.
+Resistor voltage: V2 = -48.2143 Volts.
+Resistor current: I2 = -0.120536 Amperes.
+Resistor voltage: V3 = 20.8393 Volts.
+Resistor current: I3 = 0.138929 Amperes.
+Resistor voltage: V4 = 47.6786 Volts.
+Resistor current: I4 = 0.0794643 Amperes.
+Resistor voltage: V5 = -21.375 Volts.
+Resistor current: I5 = -0.0610714 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 17.5791 Volts.
+Resistor current: I1 = 0.0292985 Amperes.
+Resistor voltage: V2 = -50.8316 Volts.
+Resistor current: I2 = -0.127079 Amperes.
+Resistor voltage: V3 = 23.4566 Volts.
+Resistor current: I3 = 0.156378 Amperes.
+Resistor voltage: V4 = 43.7526 Volts.
+Resistor current: I4 = 0.0729209 Amperes.
+Resistor voltage: V5 = -30.5357 Volts.
+Resistor current: I5 = -0.0436224 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 21.2143 Volts.
+Resistor current: I1 = 0.0353571 Amperes.
+Resistor voltage: V2 = -52.2857 Volts.
+Resistor current: I2 = -0.130714 Amperes.
+Resistor voltage: V3 = 24.9107 Volts.
+Resistor current: I3 = 0.166071 Amperes.
+Resistor voltage: V4 = 41.5714 Volts.
+Resistor current: I4 = 0.0692857 Amperes.
+Resistor voltage: V5 = -35.625 Volts.
+Resistor current: I5 = -0.0339286 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 6.90173 Volts.
+Resistor current: I1 = 0.0115029 Amperes.
+Resistor voltage: V2 = -54.2775 Volts.
+Resistor current: I2 = -0.135694 Amperes.
+Resistor voltage: V3 = 22.0795 Volts.
+Resistor current: I3 = 0.147197 Amperes.
+Resistor voltage: V4 = 57.8757 Volts.
+Resistor current: I4 = 0.0643064 Amperes.
+Resistor voltage: V5 = -18.4812 Volts.
+Resistor current: I5 = -0.0528035 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 12.9207 Volts.
+Resistor current: I1 = 0.0215344 Amperes.
+Resistor voltage: V2 = -56.1294 Volts.
+Resistor current: I2 = -0.140324 Amperes.
+Resistor voltage: V3 = 24.2787 Volts.
+Resistor current: I3 = 0.161858 Amperes.
+Resistor voltage: V4 = 53.7088 Volts.
+Resistor current: I4 = 0.0596764 Amperes.
+Resistor voltage: V5 = -26.6994 Volts.
+Resistor current: I5 = -0.038142 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 16.3235 Volts.
+Resistor current: I1 = 0.0272059 Amperes.
+Resistor voltage: V2 = -57.1765 Volts.
+Resistor current: I2 = -0.142941 Amperes.
+Resistor voltage: V3 = 25.5221 Volts.
+Resistor current: I3 = 0.170147 Amperes.
+Resistor voltage: V4 = 51.3529 Volts.
+Resistor current: I4 = 0.0570588 Amperes.
+Resistor voltage: V5 = -31.3456 Volts.
+Resistor current: I5 = -0.0298529 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 11.4664 Volts.
+Resistor current: I1 = 0.0191107 Amperes.
+Resistor voltage: V2 = -34.8379 Volts.
+Resistor current: I2 = -0.0870949 Amperes.
+Resistor voltage: V3 = 31.8617 Volts.
+Resistor current: I3 = 0.106206 Amperes.
+Resistor voltage: V4 = 33.8715 Volts.
+Resistor current: I4 = 0.112905 Amperes.
+Resistor voltage: V5 = -32.8281 Volts.
+Resistor current: I5 = -0.0937945 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 19.4826 Volts.
+Resistor current: I1 = 0.0324709 Amperes.
+Resistor voltage: V2 = -39.4186 Volts.
+Resistor current: I2 = -0.0985465 Amperes.
+Resistor voltage: V3 = 39.3052 Volts.
+Resistor current: I3 = 0.131017 Amperes.
+Resistor voltage: V4 = 30.436 Volts.
+Resistor current: I4 = 0.101453 Amperes.
+Resistor voltage: V5 = -48.2878 Volts.
+Resistor current: I5 = -0.0689826 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 24.1448 Volts.
+Resistor current: I1 = 0.0402414 Amperes.
+Resistor voltage: V2 = -42.0828 Volts.
+Resistor current: I2 = -0.105207 Amperes.
+Resistor voltage: V3 = 43.6345 Volts.
+Resistor current: I3 = 0.145448 Amperes.
+Resistor voltage: V4 = 28.4379 Volts.
+Resistor current: I4 = 0.0947931 Amperes.
+Resistor voltage: V5 = -57.2793 Volts.
+Resistor current: I5 = -0.0545517 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 3.41159 Volts.
+Resistor current: I1 = 0.00568598 Amperes.
+Resistor voltage: V2 = -45.1646 Volts.
+Resistor current: I2 = -0.112912 Amperes.
+Resistor voltage: V3 = 35.5793 Volts.
+Resistor current: I3 = 0.118598 Amperes.
+Resistor voltage: V4 = 52.253 Volts.
+Resistor current: I4 = 0.0870884 Amperes.
+Resistor voltage: V5 = -28.4909 Volts.
+Resistor current: I5 = -0.0814024 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 11.1818 Volts.
+Resistor current: I1 = 0.0186364 Amperes.
+Resistor voltage: V2 = -48.2727 Volts.
+Resistor current: I2 = -0.120682 Amperes.
+Resistor voltage: V3 = 41.7955 Volts.
+Resistor current: I3 = 0.139318 Amperes.
+Resistor voltage: V4 = 47.5909 Volts.
+Resistor current: I4 = 0.0793182 Amperes.
+Resistor voltage: V5 = -42.4773 Volts.
+Resistor current: I5 = -0.0606818 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 15.7989 Volts.
+Resistor current: I1 = 0.0263315 Amperes.
+Resistor voltage: V2 = -50.1196 Volts.
+Resistor current: I2 = -0.125299 Amperes.
+Resistor voltage: V3 = 45.4891 Volts.
+Resistor current: I3 = 0.15163 Amperes.
+Resistor voltage: V4 = 44.8207 Volts.
+Resistor current: I4 = 0.0747011 Amperes.
+Resistor voltage: V5 = -50.788 Volts.
+Resistor current: I5 = -0.0483696 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = -1.64516 Volts.
+Resistor current: I1 = -0.00274194 Amperes.
+Resistor voltage: V2 = -51.6476 Volts.
+Resistor current: I2 = -0.129119 Amperes.
+Resistor voltage: V3 = 37.9132 Volts.
+Resistor current: I3 = 0.126377 Amperes.
+Resistor voltage: V4 = 63.7928 Volts.
+Resistor current: I4 = 0.0708809 Amperes.
+Resistor voltage: V5 = -25.768 Volts.
+Resistor current: I5 = -0.0736228 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 5.85448 Volts.
+Resistor current: I1 = 0.00975746 Amperes.
+Resistor voltage: V2 = -53.9552 Volts.
+Resistor current: I2 = -0.134888 Amperes.
+Resistor voltage: V3 = 43.3937 Volts.
+Resistor current: I3 = 0.144646 Amperes.
+Resistor voltage: V4 = 58.6007 Volts.
+Resistor current: I4 = 0.0651119 Amperes.
+Resistor voltage: V5 = -38.7481 Volts.
+Resistor current: I5 = -0.0553545 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 10.3722 Volts.
+Resistor current: I1 = 0.017287 Amperes.
+Resistor voltage: V2 = -55.3453 Volts.
+Resistor current: I2 = -0.138363 Amperes.
+Resistor voltage: V3 = 46.6951 Volts.
+Resistor current: I3 = 0.15565 Amperes.
+Resistor voltage: V4 = 55.4731 Volts.
+Resistor current: I4 = 0.0616368 Amperes.
+Resistor voltage: V5 = -46.5673 Volts.
+Resistor current: I5 = -0.0443498 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 6.88356 Volts.
+Resistor current: I1 = 0.0114726 Amperes.
+Resistor voltage: V2 = -32.2192 Volts.
+Resistor current: I2 = -0.0805479 Amperes.
+Resistor voltage: V3 = 41.4092 Volts.
+Resistor current: I3 = 0.0920205 Amperes.
+Resistor voltage: V4 = 35.8356 Volts.
+Resistor current: I4 = 0.119452 Amperes.
+Resistor voltage: V5 = -37.7928 Volts.
+Resistor current: I5 = -0.107979 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 15.1723 Volts.
+Resistor current: I1 = 0.0252872 Amperes.
+Resistor voltage: V2 = -36.9556 Volts.
+Resistor current: I2 = -0.092389 Amperes.
+Resistor voltage: V3 = 52.9543 Volts.
+Resistor current: I3 = 0.117676 Amperes.
+Resistor voltage: V4 = 32.2833 Volts.
+Resistor current: I4 = 0.107611 Amperes.
+Resistor voltage: V5 = -57.6266 Volts.
+Resistor current: I5 = -0.0823238 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 20.2785 Volts.
+Resistor current: I1 = 0.0337975 Amperes.
+Resistor voltage: V2 = -39.8734 Volts.
+Resistor current: I2 = -0.0996835 Amperes.
+Resistor voltage: V3 = 60.0665 Volts.
+Resistor current: I3 = 0.133481 Amperes.
+Resistor voltage: V4 = 30.0949 Volts.
+Resistor current: I4 = 0.100316 Amperes.
+Resistor voltage: V5 = -69.8449 Volts.
+Resistor current: I5 = -0.066519 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = -2.26596 Volts.
+Resistor current: I1 = -0.0037766 Amperes.
+Resistor voltage: V2 = -42.8936 Volts.
+Resistor current: I2 = -0.107234 Amperes.
+Resistor voltage: V3 = 46.5559 Volts.
+Resistor current: I3 = 0.103457 Amperes.
+Resistor voltage: V4 = 55.6596 Volts.
+Resistor current: I4 = 0.092766 Amperes.
+Resistor voltage: V5 = -33.7899 Volts.
+Resistor current: I5 = -0.0965426 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 6.04303 Volts.
+Resistor current: I1 = 0.0100717 Amperes.
+Resistor voltage: V2 = -46.2172 Volts.
+Resistor current: I2 = -0.115543 Amperes.
+Resistor voltage: V3 = 56.5266 Volts.
+Resistor current: I3 = 0.125615 Amperes.
+Resistor voltage: V4 = 50.6742 Volts.
+Resistor current: I4 = 0.084457 Amperes.
+Resistor voltage: V5 = -52.0697 Volts.
+Resistor current: I5 = -0.0743852 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 11.25 Volts.
+Resistor current: I1 = 0.01875 Amperes.
+Resistor voltage: V2 = -48.3 Volts.
+Resistor current: I2 = -0.12075 Amperes.
+Resistor voltage: V3 = 62.775 Volts.
+Resistor current: I3 = 0.1395 Amperes.
+Resistor voltage: V4 = 47.55 Volts.
+Resistor current: I4 = 0.07925 Amperes.
+Resistor voltage: V5 = -63.525 Volts.
+Resistor current: I5 = -0.0605 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = -8.07391 Volts.
+Resistor current: I1 = -0.0134565 Amperes.
+Resistor voltage: V2 = -49.6696 Volts.
+Resistor current: I2 = -0.124174 Amperes.
+Resistor voltage: V3 = 49.8228 Volts.
+Resistor current: I3 = 0.110717 Amperes.
+Resistor voltage: V4 = 68.2435 Volts.
+Resistor current: I4 = 0.0758261 Amperes.
+Resistor voltage: V5 = -31.2489 Volts.
+Resistor current: I5 = -0.0892826 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 0.146712 Volts.
+Resistor current: I1 = 0.000244519 Amperes.
+Resistor voltage: V2 = -52.199 Volts.
+Resistor current: I2 = -0.130497 Amperes.
+Resistor voltage: V3 = 58.8339 Volts.
+Resistor current: I3 = 0.130742 Amperes.
+Resistor voltage: V4 = 62.5523 Volts.
+Resistor current: I4 = 0.0695025 Amperes.
+Resistor voltage: V5 = -48.4806 Volts.
+Resistor current: I5 = -0.069258 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 5.35537 Volts.
+Resistor current: I1 = 0.00892562 Amperes.
+Resistor voltage: V2 = -53.8017 Volts.
+Resistor current: I2 = -0.134504 Amperes.
+Resistor voltage: V3 = 64.5434 Volts.
+Resistor current: I3 = 0.14343 Amperes.
+Resistor voltage: V4 = 58.9463 Volts.
+Resistor current: I4 = 0.0654959 Amperes.
+Resistor voltage: V5 = -59.3988 Volts.
+Resistor current: I5 = -0.0565702 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 25.351 Volts.
+Resistor current: I1 = 0.0422517 Amperes.
+Resistor voltage: V2 = -54.4371 Volts.
+Resistor current: I2 = -0.0680464 Amperes.
+Resistor voltage: V3 = 16.5447 Volts.
+Resistor current: I3 = 0.110298 Amperes.
+Resistor voltage: V4 = 39.5861 Volts.
+Resistor current: I4 = 0.131954 Amperes.
+Resistor voltage: V5 = -31.3957 Volts.
+Resistor current: I5 = -0.089702 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 35.1948 Volts.
+Resistor current: I1 = 0.058658 Amperes.
+Resistor voltage: V2 = -61.5962 Volts.
+Resistor current: I2 = -0.0769952 Amperes.
+Resistor voltage: V3 = 20.348 Volts.
+Resistor current: I3 = 0.135653 Amperes.
+Resistor voltage: V4 = 36.9014 Volts.
+Resistor current: I4 = 0.123005 Amperes.
+Resistor voltage: V5 = -45.0428 Volts.
+Resistor current: I5 = -0.0643468 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 40.7 Volts.
+Resistor current: I1 = 0.0678333 Amperes.
+Resistor voltage: V2 = -65.6 Volts.
+Resistor current: I2 = -0.082 Amperes.
+Resistor voltage: V3 = 22.475 Volts.
+Resistor current: I3 = 0.149833 Amperes.
+Resistor voltage: V4 = 35.4 Volts.
+Resistor current: I4 = 0.118 Amperes.
+Resistor voltage: V5 = -52.675 Volts.
+Resistor current: I5 = -0.0501667 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 18.8967 Volts.
+Resistor current: I1 = 0.0314946 Amperes.
+Resistor voltage: V2 = -73.3696 Volts.
+Resistor current: I2 = -0.091712 Amperes.
+Resistor voltage: V3 = 18.481 Volts.
+Resistor current: I3 = 0.123207 Amperes.
+Resistor voltage: V4 = 64.9728 Volts.
+Resistor current: I4 = 0.108288 Amperes.
+Resistor voltage: V5 = -26.8777 Volts.
+Resistor current: I5 = -0.0767935 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 27.7854 Volts.
+Resistor current: I1 = 0.0463091 Amperes.
+Resistor voltage: V2 = -78.4488 Volts.
+Resistor current: I2 = -0.098061 Amperes.
+Resistor voltage: V3 = 21.6555 Volts.
+Resistor current: I3 = 0.14437 Amperes.
+Resistor voltage: V4 = 61.1634 Volts.
+Resistor current: I4 = 0.101939 Amperes.
+Resistor voltage: V5 = -38.9409 Volts.
+Resistor current: I5 = -0.0556299 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 32.8333 Volts.
+Resistor current: I1 = 0.0547222 Amperes.
+Resistor voltage: V2 = -81.3333 Volts.
+Resistor current: I2 = -0.101667 Amperes.
+Resistor voltage: V3 = 23.4583 Volts.
+Resistor current: I3 = 0.156389 Amperes.
+Resistor voltage: V4 = 59 Volts.
+Resistor current: I4 = 0.0983333 Amperes.
+Resistor voltage: V5 = -45.7917 Volts.
+Resistor current: I5 = -0.0436111 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 14.4055 Volts.
+Resistor current: I1 = 0.0240092 Amperes.
+Resistor voltage: V2 = -86.5438 Volts.
+Resistor current: I2 = -0.10818 Amperes.
+Resistor voltage: V3 = 19.8283 Volts.
+Resistor current: I3 = 0.132189 Amperes.
+Resistor voltage: V4 = 82.6382 Volts.
+Resistor current: I4 = 0.0918203 Amperes.
+Resistor voltage: V5 = -23.7339 Volts.
+Resistor current: I5 = -0.0678111 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 22.5429 Volts.
+Resistor current: I1 = 0.0375714 Amperes.
+Resistor voltage: V2 = -90.3731 Volts.
+Resistor current: I2 = -0.112966 Amperes.
+Resistor voltage: V3 = 22.5807 Volts.
+Resistor current: I3 = 0.150538 Amperes.
+Resistor voltage: V4 = 78.3303 Volts.
+Resistor current: I4 = 0.0870336 Amperes.
+Resistor voltage: V5 = -34.6235 Volts.
+Resistor current: I5 = -0.0494622 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 27.2143 Volts.
+Resistor current: I1 = 0.0453571 Amperes.
+Resistor voltage: V2 = -92.5714 Volts.
+Resistor current: I2 = -0.115714 Amperes.
+Resistor voltage: V3 = 24.1607 Volts.
+Resistor current: I3 = 0.161071 Amperes.
+Resistor voltage: V4 = 75.8571 Volts.
+Resistor current: I4 = 0.0842857 Amperes.
+Resistor voltage: V5 = -40.875 Volts.
+Resistor current: I5 = -0.0389286 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 19.1643 Volts.
+Resistor current: I1 = 0.0319405 Amperes.
+Resistor voltage: V2 = -49.9377 Volts.
+Resistor current: I2 = -0.0624221 Amperes.
+Resistor voltage: V3 = 28.3088 Volts.
+Resistor current: I3 = 0.0943626 Amperes.
+Resistor voltage: V4 = 41.2734 Volts.
+Resistor current: I4 = 0.137578 Amperes.
+Resistor voltage: V5 = -36.9731 Volts.
+Resistor current: I5 = -0.105637 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 29.5042 Volts.
+Resistor current: I1 = 0.0491737 Amperes.
+Resistor voltage: V2 = -57.4576 Volts.
+Resistor current: I2 = -0.071822 Amperes.
+Resistor voltage: V3 = 36.2987 Volts.
+Resistor current: I3 = 0.120996 Amperes.
+Resistor voltage: V4 = 38.4534 Volts.
+Resistor current: I4 = 0.128178 Amperes.
+Resistor voltage: V5 = -55.303 Volts.
+Resistor current: I5 = -0.0790042 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 35.6802 Volts.
+Resistor current: I1 = 0.059467 Amperes.
+Resistor voltage: V2 = -61.9492 Volts.
+Resistor current: I2 = -0.0774365 Amperes.
+Resistor voltage: V3 = 41.0711 Volts.
+Resistor current: I3 = 0.136904 Amperes.
+Resistor voltage: V4 = 36.769 Volts.
+Resistor current: I4 = 0.122563 Amperes.
+Resistor voltage: V5 = -66.2513 Volts.
+Resistor current: I5 = -0.0630964 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 11.6425 Volts.
+Resistor current: I1 = 0.0194042 Amperes.
+Resistor voltage: V2 = -69.2243 Volts.
+Resistor current: I2 = -0.0865304 Amperes.
+Resistor voltage: V3 = 31.7804 Volts.
+Resistor current: I3 = 0.105935 Amperes.
+Resistor voltage: V4 = 68.0818 Volts.
+Resistor current: I4 = 0.11347 Amperes.
+Resistor voltage: V5 = -32.9229 Volts.
+Resistor current: I5 = -0.0940654 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 21.3803 Volts.
+Resistor current: I1 = 0.0356338 Amperes.
+Resistor voltage: V2 = -74.7887 Volts.
+Resistor current: I2 = -0.0934859 Amperes.
+Resistor voltage: V3 = 38.7359 Volts.
+Resistor current: I3 = 0.12912 Amperes.
+Resistor voltage: V4 = 63.9085 Volts.
+Resistor current: I4 = 0.106514 Amperes.
+Resistor voltage: V5 = -49.6162 Volts.
+Resistor current: I5 = -0.0708803 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 27.2669 Volts.
+Resistor current: I1 = 0.0454449 Amperes.
+Resistor voltage: V2 = -78.1525 Volts.
+Resistor current: I2 = -0.0976907 Amperes.
+Resistor voltage: V3 = 42.9407 Volts.
+Resistor current: I3 = 0.143136 Amperes.
+Resistor voltage: V4 = 61.3856 Volts.
+Resistor current: I4 = 0.102309 Amperes.
+Resistor voltage: V5 = -59.7076 Volts.
+Resistor current: I5 = -0.0568644 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 6.36382 Volts.
+Resistor current: I1 = 0.0106064 Amperes.
+Resistor voltage: V2 = -82.7594 Volts.
+Resistor current: I2 = -0.103449 Amperes.
+Resistor voltage: V3 = 34.2167 Volts.
+Resistor current: I3 = 0.114056 Amperes.
+Resistor voltage: V4 = 86.8956 Volts.
+Resistor current: I4 = 0.0965507 Amperes.
+Resistor voltage: V5 = -30.0805 Volts.
+Resistor current: I5 = -0.0859443 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 15.6054 Volts.
+Resistor current: I1 = 0.026009 Amperes.
+Resistor voltage: V2 = -87.1084 Volts.
+Resistor current: I2 = -0.108886 Amperes.
+Resistor voltage: V3 = 40.4684 Volts.
+Resistor current: I3 = 0.134895 Amperes.
+Resistor voltage: V4 = 82.003 Volts.
+Resistor current: I4 = 0.0911145 Amperes.
+Resistor voltage: V5 = -45.5738 Volts.
+Resistor current: I5 = -0.0651054 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 21.24 Volts.
+Resistor current: I1 = 0.0354 Amperes.
+Resistor voltage: V2 = -89.76 Volts.
+Resistor current: I2 = -0.1122 Amperes.
+Resistor voltage: V3 = 44.28 Volts.
+Resistor current: I3 = 0.1476 Amperes.
+Resistor voltage: V4 = 79.02 Volts.
+Resistor current: I4 = 0.0878 Amperes.
+Resistor voltage: V5 = -55.02 Volts.
+Resistor current: I5 = -0.0524 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 14.5396 Volts.
+Resistor current: I1 = 0.0242327 Amperes.
+Resistor voltage: V2 = -46.5743 Volts.
+Resistor current: I2 = -0.0582178 Amperes.
+Resistor voltage: V3 = 37.1027 Volts.
+Resistor current: I3 = 0.0824505 Amperes.
+Resistor voltage: V4 = 42.5347 Volts.
+Resistor current: I4 = 0.141782 Amperes.
+Resistor voltage: V5 = -41.1423 Volts.
+Resistor current: I5 = -0.11755 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 24.9235 Volts.
+Resistor current: I1 = 0.0415392 Amperes.
+Resistor voltage: V2 = -54.1262 Volts.
+Resistor current: I2 = -0.0676577 Amperes.
+Resistor voltage: V3 = 49.1386 Volts.
+Resistor current: I3 = 0.109197 Amperes.
+Resistor voltage: V4 = 39.7027 Volts.
+Resistor current: I4 = 0.132342 Amperes.
+Resistor voltage: V5 = -63.5621 Volts.
+Resistor current: I5 = -0.0908031 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 31.4579 Volts.
+Resistor current: I1 = 0.0524299 Amperes.
+Resistor voltage: V2 = -58.8785 Volts.
+Resistor current: I2 = -0.0735981 Amperes.
+Resistor voltage: V3 = 56.7126 Volts.
+Resistor current: I3 = 0.126028 Amperes.
+Resistor voltage: V4 = 37.9206 Volts.
+Resistor current: I4 = 0.126402 Amperes.
+Resistor voltage: V5 = -77.6706 Volts.
+Resistor current: I5 = -0.073972 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 6.17213 Volts.
+Resistor current: I1 = 0.0102869 Amperes.
+Resistor voltage: V2 = -66.0984 Volts.
+Resistor current: I2 = -0.082623 Amperes.
+Resistor voltage: V3 = 41.8094 Volts.
+Resistor current: I3 = 0.0929098 Amperes.
+Resistor voltage: V4 = 70.4262 Volts.
+Resistor current: I4 = 0.117377 Amperes.
+Resistor voltage: V5 = -37.4816 Volts.
+Resistor current: I5 = -0.10709 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 16.199 Volts.
+Resistor current: I1 = 0.0269984 Amperes.
+Resistor voltage: V2 = -71.828 Volts.
+Resistor current: I2 = -0.089785 Amperes.
+Resistor voltage: V3 = 52.5525 Volts.
+Resistor current: I3 = 0.116783 Amperes.
+Resistor voltage: V4 = 66.129 Volts.
+Resistor current: I4 = 0.110215 Amperes.
+Resistor voltage: V5 = -58.2516 Volts.
+Resistor current: I5 = -0.0832166 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 22.5703 Volts.
+Resistor current: I1 = 0.0376172 Amperes.
+Resistor voltage: V2 = -75.4688 Volts.
+Resistor current: I2 = -0.0943359 Amperes.
+Resistor voltage: V3 = 59.3789 Volts.
+Resistor current: I3 = 0.131953 Amperes.
+Resistor voltage: V4 = 63.3984 Volts.
+Resistor current: I4 = 0.105664 Amperes.
+Resistor voltage: V5 = -71.4492 Volts.
+Resistor current: I5 = -0.0680469 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 0.262238 Volts.
+Resistor current: I1 = 0.000437063 Amperes.
+Resistor voltage: V2 = -79.8881 Volts.
+Resistor current: I2 = -0.0998601 Amperes.
+Resistor voltage: V3 = 45.1337 Volts.
+Resistor current: I3 = 0.100297 Amperes.
+Resistor voltage: V4 = 90.1259 Volts.
+Resistor current: I4 = 0.10014 Amperes.
+Resistor voltage: V5 = -34.896 Volts.
+Resistor current: I5 = -0.0997028 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 9.97408 Volts.
+Resistor current: I1 = 0.0166235 Amperes.
+Resistor voltage: V2 = -84.4584 Volts.
+Resistor current: I2 = -0.105573 Amperes.
+Resistor voltage: V3 = 54.9884 Volts.
+Resistor current: I3 = 0.122196 Amperes.
+Resistor voltage: V4 = 84.9843 Volts.
+Resistor current: I4 = 0.094427 Amperes.
+Resistor voltage: V5 = -54.4625 Volts.
+Resistor current: I5 = -0.0778035 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 16.1879 Volts.
+Resistor current: I1 = 0.0269799 Amperes.
+Resistor voltage: V2 = -87.3826 Volts.
+Resistor current: I2 = -0.109228 Amperes.
+Resistor voltage: V3 = 61.2936 Volts.
+Resistor current: I3 = 0.136208 Amperes.
+Resistor voltage: V4 = 81.6946 Volts.
+Resistor current: I4 = 0.0907718 Amperes.
+Resistor voltage: V5 = -66.9815 Volts.
+Resistor current: I5 = -0.0637919 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 29.5385 Volts.
+Resistor current: I1 = 0.0492308 Amperes.
+Resistor voltage: V2 = -63.2308 Volts.
+Resistor current: I2 = -0.0526923 Amperes.
+Resistor voltage: V3 = 15.2885 Volts.
+Resistor current: I3 = 0.101923 Amperes.
+Resistor voltage: V4 = 44.1923 Volts.
+Resistor current: I4 = 0.147308 Amperes.
+Resistor voltage: V5 = -34.3269 Volts.
+Resistor current: I5 = -0.0980769 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 41.0447 Volts.
+Resistor current: I1 = 0.0684078 Amperes.
+Resistor voltage: V2 = -72.4358 Volts.
+Resistor current: I2 = -0.0603631 Amperes.
+Resistor voltage: V3 = 19.3156 Volts.
+Resistor current: I3 = 0.128771 Amperes.
+Resistor voltage: V4 = 41.8911 Volts.
+Resistor current: I4 = 0.139637 Amperes.
+Resistor voltage: V5 = -49.8603 Volts.
+Resistor current: I5 = -0.0712291 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 47.6053 Volts.
+Resistor current: I1 = 0.0793421 Amperes.
+Resistor voltage: V2 = -77.6842 Volts.
+Resistor current: I2 = -0.0647368 Amperes.
+Resistor voltage: V3 = 21.6118 Volts.
+Resistor current: I3 = 0.144079 Amperes.
+Resistor voltage: V4 = 40.5789 Volts.
+Resistor current: I4 = 0.135263 Amperes.
+Resistor voltage: V5 = -58.7171 Volts.
+Resistor current: I5 = -0.0559211 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 23.7237 Volts.
+Resistor current: I1 = 0.0395395 Amperes.
+Resistor voltage: V2 = -88.8158 Volts.
+Resistor current: I2 = -0.0740132 Amperes.
+Resistor voltage: V3 = 17.0329 Volts.
+Resistor current: I3 = 0.113553 Amperes.
+Resistor voltage: V4 = 75.5921 Volts.
+Resistor current: I4 = 0.125987 Amperes.
+Resistor voltage: V5 = -30.2566 Volts.
+Resistor current: I5 = -0.0864474 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 34.1971 Volts.
+Resistor current: I1 = 0.0569952 Amperes.
+Resistor voltage: V2 = -95.7981 Volts.
+Resistor current: I2 = -0.0798317 Amperes.
+Resistor voltage: V3 = 20.524 Volts.
+Resistor current: I3 = 0.136827 Amperes.
+Resistor voltage: V4 = 72.101 Volts.
+Resistor current: I4 = 0.120168 Amperes.
+Resistor voltage: V5 = -44.2212 Volts.
+Resistor current: I5 = -0.0631731 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 40.2273 Volts.
+Resistor current: I1 = 0.0670455 Amperes.
+Resistor voltage: V2 = -99.8182 Volts.
+Resistor current: I2 = -0.0831818 Amperes.
+Resistor voltage: V3 = 22.5341 Volts.
+Resistor current: I3 = 0.150227 Amperes.
+Resistor voltage: V4 = 70.0909 Volts.
+Resistor current: I4 = 0.116818 Amperes.
+Resistor voltage: V5 = -52.2614 Volts.
+Resistor current: I5 = -0.0497727 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 19.3793 Volts.
+Resistor current: I1 = 0.0322989 Amperes.
+Resistor voltage: V2 = -107.931 Volts.
+Resistor current: I2 = -0.0899425 Amperes.
+Resistor voltage: V3 = 18.3362 Volts.
+Resistor current: I3 = 0.122241 Amperes.
+Resistor voltage: V4 = 99.0517 Volts.
+Resistor current: I4 = 0.110057 Amperes.
+Resistor voltage: V5 = -27.2155 Volts.
+Resistor current: I5 = -0.0777586 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 29.0253 Volts.
+Resistor current: I1 = 0.0483755 Amperes.
+Resistor voltage: V2 = -113.443 Volts.
+Resistor current: I2 = -0.0945359 Amperes.
+Resistor voltage: V3 = 21.4367 Volts.
+Resistor current: I3 = 0.142911 Amperes.
+Resistor voltage: V4 = 94.9177 Volts.
+Resistor current: I4 = 0.105464 Amperes.
+Resistor voltage: V5 = -39.962 Volts.
+Resistor current: I5 = -0.0570886 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 34.62 Volts.
+Resistor current: I1 = 0.0577 Amperes.
+Resistor voltage: V2 = -116.64 Volts.
+Resistor current: I2 = -0.0972 Amperes.
+Resistor voltage: V3 = 23.235 Volts.
+Resistor current: I3 = 0.1549 Amperes.
+Resistor voltage: V4 = 92.52 Volts.
+Resistor current: I4 = 0.1028 Amperes.
+Resistor voltage: V5 = -47.355 Volts.
+Resistor current: I5 = -0.0451 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 23.4636 Volts.
+Resistor current: I1 = 0.039106 Amperes.
+Resistor voltage: V2 = -58.3709 Volts.
+Resistor current: I2 = -0.0486424 Amperes.
+Resistor voltage: V3 = 26.3245 Volts.
+Resistor current: I3 = 0.0877483 Amperes.
+Resistor voltage: V4 = 45.4073 Volts.
+Resistor current: I4 = 0.151358 Amperes.
+Resistor voltage: V5 = -39.2881 Volts.
+Resistor current: I5 = -0.112252 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 35.25 Volts.
+Resistor current: I1 = 0.05875 Amperes.
+Resistor voltage: V2 = -67.8 Volts.
+Resistor current: I2 = -0.0565 Amperes.
+Resistor voltage: V3 = 34.575 Volts.
+Resistor current: I3 = 0.11525 Amperes.
+Resistor voltage: V4 = 43.05 Volts.
+Resistor current: I4 = 0.1435 Amperes.
+Resistor voltage: V5 = -59.325 Volts.
+Resistor current: I5 = -0.08475 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 42.3976 Volts.
+Resistor current: I1 = 0.0706627 Amperes.
+Resistor voltage: V2 = -73.5181 Volts.
+Resistor current: I2 = -0.0612651 Amperes.
+Resistor voltage: V3 = 39.5783 Volts.
+Resistor current: I3 = 0.131928 Amperes.
+Resistor voltage: V4 = 41.6205 Volts.
+Resistor current: I4 = 0.138735 Amperes.
+Resistor voltage: V5 = -71.4759 Volts.
+Resistor current: I5 = -0.0680723 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 16.7557 Volts.
+Resistor current: I1 = 0.0279261 Amperes.
+Resistor voltage: V2 = -84.1705 Volts.
+Resistor current: I2 = -0.070142 Amperes.
+Resistor voltage: V3 = 29.4205 Volts.
+Resistor current: I3 = 0.0980682 Amperes.
+Resistor voltage: V4 = 77.9148 Volts.
+Resistor current: I4 = 0.129858 Amperes.
+Resistor voltage: V5 = -35.6761 Volts.
+Resistor current: I5 = -0.101932 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 27.8276 Volts.
+Resistor current: I1 = 0.0463793 Amperes.
+Resistor voltage: V2 = -91.5517 Volts.
+Resistor current: I2 = -0.0762931 Amperes.
+Resistor voltage: V3 = 36.8017 Volts.
+Resistor current: I3 = 0.122672 Amperes.
+Resistor voltage: V4 = 74.2241 Volts.
+Resistor current: I4 = 0.123707 Amperes.
+Resistor voltage: V5 = -54.1293 Volts.
+Resistor current: I5 = -0.0773276 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 34.5938 Volts.
+Resistor current: I1 = 0.0576563 Amperes.
+Resistor voltage: V2 = -96.0625 Volts.
+Resistor current: I2 = -0.0800521 Amperes.
+Resistor voltage: V3 = 41.3125 Volts.
+Resistor current: I3 = 0.137708 Amperes.
+Resistor voltage: V4 = 71.9688 Volts.
+Resistor current: I4 = 0.119948 Amperes.
+Resistor voltage: V5 = -65.4063 Volts.
+Resistor current: I5 = -0.0622917 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 11.7164 Volts.
+Resistor current: I1 = 0.0195274 Amperes.
+Resistor voltage: V2 = -103.552 Volts.
+Resistor current: I2 = -0.0862935 Amperes.
+Resistor voltage: V3 = 31.7463 Volts.
+Resistor current: I3 = 0.105821 Amperes.
+Resistor voltage: V4 = 102.336 Volts.
+Resistor current: I4 = 0.113706 Amperes.
+Resistor voltage: V5 = -32.9627 Volts.
+Resistor current: I5 = -0.0941791 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 22.2045 Volts.
+Resistor current: I1 = 0.0370076 Amperes.
+Resistor voltage: V2 = -109.545 Volts.
+Resistor current: I2 = -0.0912879 Amperes.
+Resistor voltage: V3 = 38.4886 Volts.
+Resistor current: I3 = 0.128295 Amperes.
+Resistor voltage: V4 = 97.8409 Volts.
+Resistor current: I4 = 0.108712 Amperes.
+Resistor voltage: V5 = -50.1932 Volts.
+Resistor current: I5 = -0.0717045 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 28.6514 Volts.
+Resistor current: I1 = 0.0477523 Amperes.
+Resistor voltage: V2 = -113.229 Volts.
+Resistor current: I2 = -0.0943578 Amperes.
+Resistor voltage: V3 = 42.633 Volts.
+Resistor current: I3 = 0.14211 Amperes.
+Resistor voltage: V4 = 95.078 Volts.
+Resistor current: I4 = 0.105642 Amperes.
+Resistor voltage: V5 = -60.7844 Volts.
+Resistor current: I5 = -0.0578899 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 18.8721 Volts.
+Resistor current: I1 = 0.0314535 Amperes.
+Resistor voltage: V2 = -54.6977 Volts.
+Resistor current: I2 = -0.0455814 Amperes.
+Resistor voltage: V3 = 34.6657 Volts.
+Resistor current: I3 = 0.0770349 Amperes.
+Resistor voltage: V4 = 46.3256 Volts.
+Resistor current: I4 = 0.154419 Amperes.
+Resistor voltage: V5 = -43.0378 Volts.
+Resistor current: I5 = -0.122965 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 30.5566 Volts.
+Resistor current: I1 = 0.0509276 Amperes.
+Resistor voltage: V2 = -64.0452 Volts.
+Resistor current: I2 = -0.053371 Amperes.
+Resistor voltage: V3 = 46.9344 Volts.
+Resistor current: I3 = 0.104299 Amperes.
+Resistor voltage: V4 = 43.9887 Volts.
+Resistor current: I4 = 0.146629 Amperes.
+Resistor voltage: V5 = -66.991 Volts.
+Resistor current: I5 = -0.0957014 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 38 Volts.
+Resistor current: I1 = 0.0633333 Amperes.
+Resistor voltage: V2 = -70 Volts.
+Resistor current: I2 = -0.0583333 Amperes.
+Resistor voltage: V3 = 54.75 Volts.
+Resistor current: I3 = 0.121667 Amperes.
+Resistor voltage: V4 = 42.5 Volts.
+Resistor current: I4 = 0.141667 Amperes.
+Resistor voltage: V5 = -82.25 Volts.
+Resistor current: I5 = -0.0783333 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 11.46 Volts.
+Resistor current: I1 = 0.0191 Amperes.
+Resistor voltage: V2 = -80.64 Volts.
+Resistor current: I2 = -0.0672 Amperes.
+Resistor voltage: V3 = 38.835 Volts.
+Resistor current: I3 = 0.0863 Amperes.
+Resistor voltage: V4 = 79.68 Volts.
+Resistor current: I4 = 0.1328 Amperes.
+Resistor voltage: V5 = -39.795 Volts.
+Resistor current: I5 = -0.1137 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 22.6523 Volts.
+Resistor current: I1 = 0.0377539 Amperes.
+Resistor voltage: V2 = -88.1016 Volts.
+Resistor current: I2 = -0.073418 Amperes.
+Resistor voltage: V3 = 50.0273 Volts.
+Resistor current: I3 = 0.111172 Amperes.
+Resistor voltage: V4 = 75.9492 Volts.
+Resistor current: I4 = 0.126582 Amperes.
+Resistor voltage: V5 = -62.1797 Volts.
+Resistor current: I5 = -0.0888281 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 29.8269 Volts.
+Resistor current: I1 = 0.0497115 Amperes.
+Resistor voltage: V2 = -92.8846 Volts.
+Resistor current: I2 = -0.0774038 Amperes.
+Resistor voltage: V3 = 57.2019 Volts.
+Resistor current: I3 = 0.127115 Amperes.
+Resistor voltage: V4 = 73.5577 Volts.
+Resistor current: I4 = 0.122596 Amperes.
+Resistor voltage: V5 = -76.5288 Volts.
+Resistor current: I5 = -0.0728846 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 5.86842 Volts.
+Resistor current: I1 = 0.0097807 Amperes.
+Resistor voltage: V2 = -100.211 Volts.
+Resistor current: I2 = -0.0835088 Amperes.
+Resistor voltage: V3 = 41.9803 Volts.
+Resistor current: I3 = 0.0932895 Amperes.
+Resistor voltage: V4 = 104.842 Volts.
+Resistor current: I4 = 0.116491 Amperes.
+Resistor voltage: V5 = -37.3487 Volts.
+Resistor current: I5 = -0.106711 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 16.6495 Volts.
+Resistor current: I1 = 0.0277491 Amperes.
+Resistor voltage: V2 = -106.371 Volts.
+Resistor current: I2 = -0.0886426 Amperes.
+Resistor voltage: V3 = 52.3763 Volts.
+Resistor current: I3 = 0.116392 Amperes.
+Resistor voltage: V4 = 100.222 Volts.
+Resistor current: I4 = 0.111357 Amperes.
+Resistor voltage: V5 = -58.5258 Volts.
+Resistor current: I5 = -0.0836082 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 600 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 23.5932 Volts.
+Resistor current: I1 = 0.039322 Amperes.
+Resistor voltage: V2 = -110.339 Volts.
+Resistor current: I2 = -0.0919492 Amperes.
+Resistor voltage: V3 = 59.072 Volts.
+Resistor current: I3 = 0.131271 Amperes.
+Resistor voltage: V4 = 97.2458 Volts.
+Resistor current: I4 = 0.108051 Amperes.
+Resistor voltage: V5 = -72.1653 Volts.
+Resistor current: I5 = -0.0687288 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 19.8881 Volts.
+Resistor current: I1 = 0.0220979 Amperes.
+Resistor voltage: V2 = -39.6503 Volts.
+Resistor current: I2 = -0.0991259 Amperes.
+Resistor voltage: V3 = 18.1836 Volts.
+Resistor current: I3 = 0.121224 Amperes.
+Resistor voltage: V4 = 30.2622 Volts.
+Resistor current: I4 = 0.100874 Amperes.
+Resistor voltage: V5 = -27.5717 Volts.
+Resistor current: I5 = -0.0787762 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 28.6168 Volts.
+Resistor current: I1 = 0.0317965 Amperes.
+Resistor voltage: V2 = -44.6382 Volts.
+Resistor current: I2 = -0.111595 Amperes.
+Resistor voltage: V3 = 21.5088 Volts.
+Resistor current: I3 = 0.143392 Amperes.
+Resistor voltage: V4 = 26.5214 Volts.
+Resistor current: I4 = 0.0884045 Amperes.
+Resistor voltage: V5 = -39.6256 Volts.
+Resistor current: I5 = -0.056608 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 33.5118 Volts.
+Resistor current: I1 = 0.0372353 Amperes.
+Resistor voltage: V2 = -47.4353 Volts.
+Resistor current: I2 = -0.118588 Amperes.
+Resistor voltage: V3 = 23.3735 Volts.
+Resistor current: I3 = 0.155824 Amperes.
+Resistor voltage: V4 = 24.4235 Volts.
+Resistor current: I4 = 0.0814118 Amperes.
+Resistor voltage: V5 = -46.3853 Volts.
+Resistor current: I5 = -0.0441765 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 12.527 Volts.
+Resistor current: I1 = 0.0139189 Amperes.
+Resistor voltage: V2 = -48.8108 Volts.
+Resistor current: I2 = -0.122027 Amperes.
+Resistor voltage: V3 = 20.3919 Volts.
+Resistor current: I3 = 0.135946 Amperes.
+Resistor voltage: V4 = 46.7838 Volts.
+Resistor current: I4 = 0.077973 Amperes.
+Resistor voltage: V5 = -22.4189 Volts.
+Resistor current: I5 = -0.0640541 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 20.5497 Volts.
+Resistor current: I1 = 0.022833 Amperes.
+Resistor voltage: V2 = -52.0199 Volts.
+Resistor current: I2 = -0.13005 Amperes.
+Resistor voltage: V3 = 22.9324 Volts.
+Resistor current: I3 = 0.152883 Amperes.
+Resistor voltage: V4 = 41.9702 Volts.
+Resistor current: I4 = 0.0699503 Amperes.
+Resistor voltage: V5 = -32.9821 Volts.
+Resistor current: I5 = -0.0471173 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 25.217 Volts.
+Resistor current: I1 = 0.0280189 Amperes.
+Resistor voltage: V2 = -53.8868 Volts.
+Resistor current: I2 = -0.134717 Amperes.
+Resistor voltage: V3 = 24.4104 Volts.
+Resistor current: I3 = 0.162736 Amperes.
+Resistor voltage: V4 = 39.1698 Volts.
+Resistor current: I4 = 0.065283 Amperes.
+Resistor voltage: V5 = -39.1274 Volts.
+Resistor current: I5 = -0.0372642 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 7.88987 Volts.
+Resistor current: I1 = 0.00876652 Amperes.
+Resistor voltage: V2 = -54.5815 Volts.
+Resistor current: I2 = -0.136454 Amperes.
+Resistor voltage: V3 = 21.783 Volts.
+Resistor current: I3 = 0.14522 Amperes.
+Resistor voltage: V4 = 57.1916 Volts.
+Resistor current: I4 = 0.0635463 Amperes.
+Resistor voltage: V5 = -19.1729 Volts.
+Resistor current: I5 = -0.0547797 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 15.2689 Volts.
+Resistor current: I1 = 0.0169655 Amperes.
+Resistor voltage: V2 = -56.852 Volts.
+Resistor current: I2 = -0.14213 Amperes.
+Resistor voltage: V3 = 23.8643 Volts.
+Resistor current: I3 = 0.159095 Amperes.
+Resistor voltage: V4 = 52.0831 Volts.
+Resistor current: I4 = 0.0578701 Amperes.
+Resistor voltage: V5 = -28.6332 Volts.
+Resistor current: I5 = -0.0409046 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 19.6654 Volts.
+Resistor current: I1 = 0.0218504 Amperes.
+Resistor voltage: V2 = -58.2047 Volts.
+Resistor current: I2 = -0.145512 Amperes.
+Resistor voltage: V3 = 25.1043 Volts.
+Resistor current: I3 = 0.167362 Amperes.
+Resistor voltage: V4 = 49.0394 Volts.
+Resistor current: I4 = 0.0544882 Amperes.
+Resistor voltage: V5 = -34.2697 Volts.
+Resistor current: I5 = -0.0326378 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 13.0284 Volts.
+Resistor current: I1 = 0.014476 Amperes.
+Resistor voltage: V2 = -35.7305 Volts.
+Resistor current: I2 = -0.0893263 Amperes.
+Resistor voltage: V3 = 31.1407 Volts.
+Resistor current: I3 = 0.103802 Amperes.
+Resistor voltage: V4 = 33.2021 Volts.
+Resistor current: I4 = 0.110674 Amperes.
+Resistor voltage: V5 = -33.6692 Volts.
+Resistor current: I5 = -0.0961976 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 22.5404 Volts.
+Resistor current: I1 = 0.0250448 Amperes.
+Resistor voltage: V2 = -41.1659 Volts.
+Resistor current: I2 = -0.102915 Amperes.
+Resistor voltage: V3 = 38.3879 Volts.
+Resistor current: I3 = 0.12796 Amperes.
+Resistor voltage: V4 = 29.1256 Volts.
+Resistor current: I4 = 0.0970852 Amperes.
+Resistor voltage: V5 = -50.4283 Volts.
+Resistor current: I5 = -0.0720404 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 28.2339 Volts.
+Resistor current: I1 = 0.031371 Amperes.
+Resistor voltage: V2 = -44.4194 Volts.
+Resistor current: I2 = -0.111048 Amperes.
+Resistor voltage: V3 = 42.7258 Volts.
+Resistor current: I3 = 0.142419 Amperes.
+Resistor voltage: V4 = 26.6855 Volts.
+Resistor current: I4 = 0.0889516 Amperes.
+Resistor voltage: V5 = -60.4597 Volts.
+Resistor current: I5 = -0.0575806 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 3.93091 Volts.
+Resistor current: I1 = 0.00436768 Amperes.
+Resistor voltage: V2 = -45.3724 Volts.
+Resistor current: I2 = -0.113431 Amperes.
+Resistor voltage: V3 = 35.3396 Volts.
+Resistor current: I3 = 0.117799 Amperes.
+Resistor voltage: V4 = 51.9415 Volts.
+Resistor current: I4 = 0.0865691 Amperes.
+Resistor voltage: V5 = -28.7705 Volts.
+Resistor current: I5 = -0.0822014 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 13.1786 Volts.
+Resistor current: I1 = 0.0146429 Amperes.
+Resistor voltage: V2 = -49.0714 Volts.
+Resistor current: I2 = -0.122679 Amperes.
+Resistor voltage: V3 = 41.1964 Volts.
+Resistor current: I3 = 0.137321 Amperes.
+Resistor voltage: V4 = 46.3929 Volts.
+Resistor current: I4 = 0.0773214 Amperes.
+Resistor voltage: V5 = -43.875 Volts.
+Resistor current: I5 = -0.0626786 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 18.8766 Volts.
+Resistor current: I1 = 0.020974 Amperes.
+Resistor voltage: V2 = -51.3506 Volts.
+Resistor current: I2 = -0.128377 Amperes.
+Resistor voltage: V3 = 44.8052 Volts.
+Resistor current: I3 = 0.149351 Amperes.
+Resistor voltage: V4 = 42.974 Volts.
+Resistor current: I4 = 0.0716234 Amperes.
+Resistor voltage: V5 = -53.1818 Volts.
+Resistor current: I5 = -0.0506494 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = -1.9125 Volts.
+Resistor current: I1 = -0.002125 Amperes.
+Resistor voltage: V2 = -51.5654 Volts.
+Resistor current: I2 = -0.128913 Amperes.
+Resistor voltage: V3 = 38.0365 Volts.
+Resistor current: I3 = 0.126788 Amperes.
+Resistor voltage: V4 = 63.9779 Volts.
+Resistor current: I4 = 0.0710865 Amperes.
+Resistor voltage: V5 = -25.624 Volts.
+Resistor current: I5 = -0.0732115 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 6.98368 Volts.
+Resistor current: I1 = 0.00775964 Amperes.
+Resistor voltage: V2 = -54.3027 Volts.
+Resistor current: I2 = -0.135757 Amperes.
+Resistor voltage: V3 = 43.0549 Volts.
+Resistor current: I3 = 0.143516 Amperes.
+Resistor voltage: V4 = 57.819 Volts.
+Resistor current: I4 = 0.0642433 Amperes.
+Resistor voltage: V5 = -39.5386 Volts.
+Resistor current: I5 = -0.0564837 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 12.5707 Volts.
+Resistor current: I1 = 0.0139674 Amperes.
+Resistor voltage: V2 = -56.0217 Volts.
+Resistor current: I2 = -0.140054 Amperes.
+Resistor voltage: V3 = 46.2065 Volts.
+Resistor current: I3 = 0.154022 Amperes.
+Resistor voltage: V4 = 53.9511 Volts.
+Resistor current: I4 = 0.0599457 Amperes.
+Resistor voltage: V5 = -48.2772 Volts.
+Resistor current: I5 = -0.0459783 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 7.89267 Volts.
+Resistor current: I1 = 0.00876963 Amperes.
+Resistor voltage: V2 = -32.7958 Volts.
+Resistor current: I2 = -0.0819895 Amperes.
+Resistor voltage: V3 = 40.8416 Volts.
+Resistor current: I3 = 0.0907592 Amperes.
+Resistor voltage: V4 = 35.4031 Volts.
+Resistor current: I4 = 0.11801 Amperes.
+Resistor voltage: V5 = -38.2343 Volts.
+Resistor current: I5 = -0.109241 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 17.6447 Volts.
+Resistor current: I1 = 0.0196053 Amperes.
+Resistor voltage: V2 = -38.3684 Volts.
+Resistor current: I2 = -0.0959211 Amperes.
+Resistor voltage: V3 = 51.9868 Volts.
+Resistor current: I3 = 0.115526 Amperes.
+Resistor voltage: V4 = 31.2237 Volts.
+Resistor current: I4 = 0.104079 Amperes.
+Resistor voltage: V5 = -59.1316 Volts.
+Resistor current: I5 = -0.0844737 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 23.7921 Volts.
+Resistor current: I1 = 0.0264356 Amperes.
+Resistor voltage: V2 = -41.8812 Volts.
+Resistor current: I2 = -0.104703 Amperes.
+Resistor voltage: V3 = 59.0124 Volts.
+Resistor current: I3 = 0.131139 Amperes.
+Resistor voltage: V4 = 28.5891 Volts.
+Resistor current: I4 = 0.095297 Amperes.
+Resistor voltage: V5 = -72.3045 Volts.
+Resistor current: I5 = -0.0688614 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = -2.6405 Volts.
+Resistor current: I1 = -0.00293388 Amperes.
+Resistor voltage: V2 = -42.7438 Volts.
+Resistor current: I2 = -0.10686 Amperes.
+Resistor voltage: V3 = 46.7665 Volts.
+Resistor current: I3 = 0.103926 Amperes.
+Resistor voltage: V4 = 55.8843 Volts.
+Resistor current: I4 = 0.0931405 Amperes.
+Resistor voltage: V5 = -33.626 Volts.
+Resistor current: I5 = -0.0960744 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 7.16937 Volts.
+Resistor current: I1 = 0.00796596 Amperes.
+Resistor voltage: V2 = -46.6677 Volts.
+Resistor current: I2 = -0.116669 Amperes.
+Resistor voltage: V3 = 56.0859 Volts.
+Resistor current: I3 = 0.124635 Amperes.
+Resistor voltage: V4 = 49.9984 Volts.
+Resistor current: I4 = 0.0833306 Amperes.
+Resistor voltage: V5 = -52.7553 Volts.
+Resistor current: I5 = -0.0753647 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 13.5 Volts.
+Resistor current: I1 = 0.015 Amperes.
+Resistor voltage: V2 = -49.2 Volts.
+Resistor current: I2 = -0.123 Amperes.
+Resistor voltage: V3 = 62.1 Volts.
+Resistor current: I3 = 0.138 Amperes.
+Resistor voltage: V4 = 46.2 Volts.
+Resistor current: I4 = 0.077 Amperes.
+Resistor voltage: V5 = -65.1 Volts.
+Resistor current: I5 = -0.062 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = -9.50683 Volts.
+Resistor current: I1 = -0.0105631 Amperes.
+Resistor voltage: V2 = -49.2287 Volts.
+Resistor current: I2 = -0.123072 Amperes.
+Resistor voltage: V3 = 50.6288 Volts.
+Resistor current: I3 = 0.112509 Amperes.
+Resistor voltage: V4 = 69.2355 Volts.
+Resistor current: I4 = 0.0769283 Amperes.
+Resistor voltage: V5 = -30.622 Volts.
+Resistor current: I5 = -0.0874915 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 0.176351 Volts.
+Resistor current: I1 = 0.000195946 Amperes.
+Resistor voltage: V2 = -52.2081 Volts.
+Resistor current: I2 = -0.13052 Amperes.
+Resistor voltage: V3 = 58.8223 Volts.
+Resistor current: I3 = 0.130716 Amperes.
+Resistor voltage: V4 = 62.5318 Volts.
+Resistor current: I4 = 0.0694797 Amperes.
+Resistor voltage: V5 = -48.4986 Volts.
+Resistor current: I5 = -0.0692838 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 400 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 6.52349 Volts.
+Resistor current: I1 = 0.00724832 Amperes.
+Resistor voltage: V2 = -54.1611 Volts.
+Resistor current: I2 = -0.135403 Amperes.
+Resistor voltage: V3 = 64.193 Volts.
+Resistor current: I3 = 0.142651 Amperes.
+Resistor voltage: V4 = 58.1376 Volts.
+Resistor current: I4 = 0.0645973 Amperes.
+Resistor voltage: V5 = -60.2164 Volts.
+Resistor current: I5 = -0.057349 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 28.8543 Volts.
+Resistor current: I1 = 0.0320603 Amperes.
+Resistor voltage: V2 = -56.9849 Volts.
+Resistor current: I2 = -0.0712312 Amperes.
+Resistor voltage: V3 = 15.4937 Volts.
+Resistor current: I3 = 0.103291 Amperes.
+Resistor voltage: V4 = 38.6307 Volts.
+Resistor current: I4 = 0.128769 Amperes.
+Resistor voltage: V5 = -33.848 Volts.
+Resistor current: I5 = -0.0967085 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 41.3113 Volts.
+Resistor current: I1 = 0.0459015 Amperes.
+Resistor voltage: V2 = -66.0446 Volts.
+Resistor current: I2 = -0.0825558 Amperes.
+Resistor voltage: V3 = 19.2686 Volts.
+Resistor current: I3 = 0.128457 Amperes.
+Resistor voltage: V4 = 35.2333 Volts.
+Resistor current: I4 = 0.117444 Amperes.
+Resistor voltage: V5 = -50.0799 Volts.
+Resistor current: I5 = -0.0715428 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 48.6239 Volts.
+Resistor current: I1 = 0.0540265 Amperes.
+Resistor voltage: V2 = -71.3628 Volts.
+Resistor current: I2 = -0.0892035 Amperes.
+Resistor voltage: V3 = 21.4845 Volts.
+Resistor current: I3 = 0.14323 Amperes.
+Resistor voltage: V4 = 33.2389 Volts.
+Resistor current: I4 = 0.110796 Amperes.
+Resistor voltage: V5 = -59.6084 Volts.
+Resistor current: I5 = -0.0567699 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 21.6411 Volts.
+Resistor current: I1 = 0.0240456 Amperes.
+Resistor voltage: V2 = -74.9378 Volts.
+Resistor current: I2 = -0.0936722 Amperes.
+Resistor voltage: V3 = 17.6577 Volts.
+Resistor current: I3 = 0.117718 Amperes.
+Resistor voltage: V4 = 63.7967 Volts.
+Resistor current: I4 = 0.106328 Amperes.
+Resistor voltage: V5 = -28.7988 Volts.
+Resistor current: I5 = -0.0822822 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 32.9277 Volts.
+Resistor current: I1 = 0.0365863 Amperes.
+Resistor voltage: V2 = -81.3872 Volts.
+Resistor current: I2 = -0.101734 Amperes.
+Resistor voltage: V3 = 20.7481 Volts.
+Resistor current: I3 = 0.13832 Amperes.
+Resistor voltage: V4 = 58.9596 Volts.
+Resistor current: I4 = 0.0982659 Amperes.
+Resistor voltage: V5 = -43.1757 Volts.
+Resistor current: I5 = -0.0616796 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 39.694 Volts.
+Resistor current: I1 = 0.0441045 Amperes.
+Resistor voltage: V2 = -85.2537 Volts.
+Resistor current: I2 = -0.106567 Amperes.
+Resistor voltage: V3 = 22.6007 Volts.
+Resistor current: I3 = 0.150672 Amperes.
+Resistor voltage: V4 = 56.0597 Volts.
+Resistor current: I4 = 0.0934328 Amperes.
+Resistor voltage: V5 = -51.7948 Volts.
+Resistor current: I5 = -0.0493284 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 16.5689 Volts.
+Resistor current: I1 = 0.0184099 Amperes.
+Resistor voltage: V2 = -87.5618 Volts.
+Resistor current: I2 = -0.109452 Amperes.
+Resistor voltage: V3 = 19.1793 Volts.
+Resistor current: I3 = 0.127862 Amperes.
+Resistor voltage: V4 = 81.4929 Volts.
+Resistor current: I4 = 0.0905477 Amperes.
+Resistor voltage: V5 = -25.2482 Volts.
+Resistor current: I5 = -0.0721378 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 26.8977 Volts.
+Resistor current: I1 = 0.0298864 Amperes.
+Resistor voltage: V2 = -92.4225 Volts.
+Resistor current: I2 = -0.115528 Amperes.
+Resistor voltage: V3 = 21.8122 Volts.
+Resistor current: I3 = 0.145414 Amperes.
+Resistor voltage: V4 = 76.0247 Volts.
+Resistor current: I4 = 0.0844719 Amperes.
+Resistor voltage: V5 = -38.2099 Volts.
+Resistor current: I5 = -0.0545856 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 33.1839 Volts.
+Resistor current: I1 = 0.036871 Amperes.
+Resistor voltage: V2 = -95.3806 Volts.
+Resistor current: I2 = -0.119226 Amperes.
+Resistor voltage: V3 = 23.4145 Volts.
+Resistor current: I3 = 0.156097 Amperes.
+Resistor voltage: V4 = 72.6968 Volts.
+Resistor current: I4 = 0.0807742 Amperes.
+Resistor voltage: V5 = -46.0984 Volts.
+Resistor current: I5 = -0.0439032 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 22.1561 Volts.
+Resistor current: I1 = 0.0246179 Amperes.
+Resistor voltage: V2 = -52.1135 Volts.
+Resistor current: I2 = -0.0651419 Amperes.
+Resistor voltage: V3 = 26.9279 Volts.
+Resistor current: I3 = 0.0897598 Amperes.
+Resistor voltage: V4 = 40.4574 Volts.
+Resistor current: I4 = 0.134858 Amperes.
+Resistor voltage: V5 = -38.5841 Volts.
+Resistor current: I5 = -0.11024 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 34.9314 Volts.
+Resistor current: I1 = 0.0388127 Amperes.
+Resistor voltage: V2 = -61.4047 Volts.
+Resistor current: I2 = -0.0767559 Amperes.
+Resistor voltage: V3 = 34.6706 Volts.
+Resistor current: I3 = 0.115569 Amperes.
+Resistor voltage: V4 = 36.9732 Volts.
+Resistor current: I4 = 0.123244 Amperes.
+Resistor voltage: V5 = -59.102 Volts.
+Resistor current: I5 = -0.0844314 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 42.8598 Volts.
+Resistor current: I1 = 0.047622 Amperes.
+Resistor voltage: V2 = -67.1707 Volts.
+Resistor current: I2 = -0.0839634 Amperes.
+Resistor voltage: V3 = 39.4756 Volts.
+Resistor current: I3 = 0.131585 Amperes.
+Resistor voltage: V4 = 34.811 Volts.
+Resistor current: I4 = 0.116037 Amperes.
+Resistor voltage: V5 = -71.8354 Volts.
+Resistor current: I5 = -0.0684146 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 13.5653 Volts.
+Resistor current: I1 = 0.0150726 Amperes.
+Resistor voltage: V2 = -70.323 Volts.
+Resistor current: I2 = -0.0879038 Amperes.
+Resistor voltage: V3 = 30.8929 Volts.
+Resistor current: I3 = 0.102976 Amperes.
+Resistor voltage: V4 = 67.2577 Volts.
+Resistor current: I4 = 0.112096 Amperes.
+Resistor voltage: V5 = -33.9583 Volts.
+Resistor current: I5 = -0.0970236 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 25.5843 Volts.
+Resistor current: I1 = 0.028427 Amperes.
+Resistor voltage: V2 = -77.191 Volts.
+Resistor current: I2 = -0.0964888 Amperes.
+Resistor voltage: V3 = 37.4747 Volts.
+Resistor current: I3 = 0.124916 Amperes.
+Resistor voltage: V4 = 62.1067 Volts.
+Resistor current: I4 = 0.103511 Amperes.
+Resistor voltage: V5 = -52.559 Volts.
+Resistor current: I5 = -0.0750843 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 33.1701 Volts.
+Resistor current: I1 = 0.0368557 Amperes.
+Resistor voltage: V2 = -81.5258 Volts.
+Resistor current: I2 = -0.101907 Amperes.
+Resistor voltage: V3 = 41.6289 Volts.
+Resistor current: I3 = 0.138763 Amperes.
+Resistor voltage: V4 = 58.8557 Volts.
+Resistor current: I4 = 0.0980928 Amperes.
+Resistor voltage: V5 = -64.299 Volts.
+Resistor current: I5 = -0.0612371 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 7.45575 Volts.
+Resistor current: I1 = 0.00828416 Amperes.
+Resistor voltage: V2 = -83.2733 Volts.
+Resistor current: I2 = -0.104092 Amperes.
+Resistor voltage: V3 = 33.7127 Volts.
+Resistor current: I3 = 0.112376 Amperes.
+Resistor voltage: V4 = 86.3175 Volts.
+Resistor current: I4 = 0.0959084 Amperes.
+Resistor voltage: V5 = -30.6685 Volts.
+Resistor current: I5 = -0.0876242 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 18.8172 Volts.
+Resistor current: I1 = 0.020908 Amperes.
+Resistor voltage: V2 = -88.6199 Volts.
+Resistor current: I2 = -0.110775 Amperes.
+Resistor voltage: V3 = 39.5048 Volts.
+Resistor current: I3 = 0.131683 Amperes.
+Resistor voltage: V4 = 80.3027 Volts.
+Resistor current: I4 = 0.0892252 Amperes.
+Resistor voltage: V5 = -47.822 Volts.
+Resistor current: I5 = -0.0683172 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 26.0759 Volts.
+Resistor current: I1 = 0.0289732 Amperes.
+Resistor voltage: V2 = -92.0357 Volts.
+Resistor current: I2 = -0.115045 Amperes.
+Resistor voltage: V3 = 43.2054 Volts.
+Resistor current: I3 = 0.144018 Amperes.
+Resistor voltage: V4 = 76.4598 Volts.
+Resistor current: I4 = 0.0849554 Amperes.
+Resistor voltage: V5 = -58.7812 Volts.
+Resistor current: I5 = -0.0559821 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 17.0097 Volts.
+Resistor current: I1 = 0.0188996 Amperes.
+Resistor voltage: V2 = -48.3707 Volts.
+Resistor current: I2 = -0.0604633 Amperes.
+Resistor voltage: V3 = 35.7133 Volts.
+Resistor current: I3 = 0.0793629 Amperes.
+Resistor voltage: V4 = 41.861 Volts.
+Resistor current: I4 = 0.139537 Amperes.
+Resistor voltage: V5 = -42.223 Volts.
+Resistor current: I5 = -0.120637 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 29.715 Volts.
+Resistor current: I1 = 0.0330167 Amperes.
+Resistor voltage: V2 = -57.6109 Volts.
+Resistor current: I2 = -0.0720137 Amperes.
+Resistor voltage: V3 = 47.2637 Volts.
+Resistor current: I3 = 0.10503 Amperes.
+Resistor voltage: V4 = 38.3959 Volts.
+Resistor current: I4 = 0.127986 Amperes.
+Resistor voltage: V5 = -66.4787 Volts.
+Resistor current: I5 = -0.0949696 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 37.9624 Volts.
+Resistor current: I1 = 0.0421805 Amperes.
+Resistor voltage: V2 = -63.609 Volts.
+Resistor current: I2 = -0.0795113 Amperes.
+Resistor voltage: V3 = 54.7613 Volts.
+Resistor current: I3 = 0.121692 Amperes.
+Resistor voltage: V4 = 36.1466 Volts.
+Resistor current: I4 = 0.120489 Amperes.
+Resistor voltage: V5 = -82.2237 Volts.
+Resistor current: I5 = -0.0783083 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 7.2871 Volts.
+Resistor current: I1 = 0.00809677 Amperes.
+Resistor voltage: V2 = -66.7355 Volts.
+Resistor current: I2 = -0.0834194 Amperes.
+Resistor voltage: V3 = 41.1823 Volts.
+Resistor current: I3 = 0.0915161 Amperes.
+Resistor voltage: V4 = 69.9484 Volts.
+Resistor current: I4 = 0.116581 Amperes.
+Resistor voltage: V5 = -37.9694 Volts.
+Resistor current: I5 = -0.108484 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 19.5384 Volts.
+Resistor current: I1 = 0.0217093 Amperes.
+Resistor voltage: V2 = -73.7362 Volts.
+Resistor current: I2 = -0.0921703 Amperes.
+Resistor voltage: V3 = 51.2458 Volts.
+Resistor current: I3 = 0.11388 Amperes.
+Resistor voltage: V4 = 64.6978 Volts.
+Resistor current: I4 = 0.10783 Amperes.
+Resistor voltage: V5 = -60.2843 Volts.
+Resistor current: I5 = -0.0861204 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 27.6019 Volts.
+Resistor current: I1 = 0.0306688 Amperes.
+Resistor voltage: V2 = -78.3439 Volts.
+Resistor current: I2 = -0.0979299 Amperes.
+Resistor voltage: V3 = 57.8694 Volts.
+Resistor current: I3 = 0.128599 Amperes.
+Resistor voltage: V4 = 61.242 Volts.
+Resistor current: I4 = 0.10207 Amperes.
+Resistor voltage: V5 = -74.9713 Volts.
+Resistor current: I5 = -0.0714013 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 0.311634 Volts.
+Resistor current: I1 = 0.00034626 Amperes.
+Resistor voltage: V2 = -79.9114 Volts.
+Resistor current: I2 = -0.0998892 Amperes.
+Resistor voltage: V3 = 45.106 Volts.
+Resistor current: I3 = 0.100235 Amperes.
+Resistor voltage: V4 = 90.0997 Volts.
+Resistor current: I4 = 0.100111 Amperes.
+Resistor voltage: V5 = -34.9176 Volts.
+Resistor current: I5 = -0.0997645 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 12.1311 Volts.
+Resistor current: I1 = 0.013479 Amperes.
+Resistor voltage: V2 = -85.4735 Volts.
+Resistor current: I2 = -0.106842 Amperes.
+Resistor voltage: V3 = 54.1444 Volts.
+Resistor current: I3 = 0.120321 Amperes.
+Resistor voltage: V4 = 83.8424 Volts.
+Resistor current: I4 = 0.0931582 Amperes.
+Resistor voltage: V5 = -55.7754 Volts.
+Resistor current: I5 = -0.0796792 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 800 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 19.989 Volts.
+Resistor current: I1 = 0.0222099 Amperes.
+Resistor voltage: V2 = -89.1713 Volts.
+Resistor current: I2 = -0.111464 Amperes.
+Resistor voltage: V3 = 60.1533 Volts.
+Resistor current: I3 = 0.133674 Amperes.
+Resistor voltage: V4 = 79.6823 Volts.
+Resistor current: I4 = 0.0885359 Amperes.
+Resistor voltage: V5 = -69.6423 Volts.
+Resistor current: I5 = -0.066326 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 33.8824 Volts.
+Resistor current: I1 = 0.0376471 Amperes.
+Resistor voltage: V2 = -66.7059 Volts.
+Resistor current: I2 = -0.0555882 Amperes.
+Resistor voltage: V3 = 13.9853 Volts.
+Resistor current: I3 = 0.0932353 Amperes.
+Resistor voltage: V4 = 43.3235 Volts.
+Resistor current: I4 = 0.144412 Amperes.
+Resistor voltage: V5 = -37.3676 Volts.
+Resistor current: I5 = -0.106765 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 48.7633 Volts.
+Resistor current: I1 = 0.0541814 Amperes.
+Resistor voltage: V2 = -78.6106 Volts.
+Resistor current: I2 = -0.0655088 Amperes.
+Resistor voltage: V3 = 17.9535 Volts.
+Resistor current: I3 = 0.11969 Amperes.
+Resistor voltage: V4 = 40.3473 Volts.
+Resistor current: I4 = 0.134491 Amperes.
+Resistor voltage: V5 = -56.2168 Volts.
+Resistor current: I5 = -0.0803097 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 57.734 Volts.
+Resistor current: I1 = 0.0641489 Amperes.
+Resistor voltage: V2 = -85.7872 Volts.
+Resistor current: I2 = -0.0714894 Amperes.
+Resistor voltage: V3 = 20.3457 Volts.
+Resistor current: I3 = 0.135638 Amperes.
+Resistor voltage: V4 = 38.5532 Volts.
+Resistor current: I4 = 0.128511 Amperes.
+Resistor voltage: V5 = -67.5798 Volts.
+Resistor current: I5 = -0.0643617 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 27.3182 Volts.
+Resistor current: I1 = 0.0303535 Amperes.
+Resistor voltage: V2 = -91.2121 Volts.
+Resistor current: I2 = -0.0760101 Amperes.
+Resistor voltage: V3 = 15.9545 Volts.
+Resistor current: I3 = 0.106364 Amperes.
+Resistor voltage: V4 = 74.3939 Volts.
+Resistor current: I4 = 0.12399 Amperes.
+Resistor voltage: V5 = -32.7727 Volts.
+Resistor current: I5 = -0.0936364 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 40.8793 Volts.
+Resistor current: I1 = 0.0454215 Amperes.
+Resistor voltage: V2 = -100.253 Volts.
+Resistor current: I2 = -0.0835441 Amperes.
+Resistor voltage: V3 = 19.3448 Volts.
+Resistor current: I3 = 0.128966 Amperes.
+Resistor voltage: V4 = 69.8736 Volts.
+Resistor current: I4 = 0.116456 Amperes.
+Resistor voltage: V5 = -49.7241 Volts.
+Resistor current: I5 = -0.0710345 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 49.1667 Volts.
+Resistor current: I1 = 0.0546296 Amperes.
+Resistor voltage: V2 = -105.778 Volts.
+Resistor current: I2 = -0.0881481 Amperes.
+Resistor voltage: V3 = 21.4167 Volts.
+Resistor current: I3 = 0.142778 Amperes.
+Resistor voltage: V4 = 67.1111 Volts.
+Resistor current: I4 = 0.111852 Amperes.
+Resistor voltage: V5 = -60.0833 Volts.
+Resistor current: I5 = -0.0572222 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 22.3805 Volts.
+Resistor current: I1 = 0.0248673 Amperes.
+Resistor voltage: V2 = -109.646 Volts.
+Resistor current: I2 = -0.0913717 Amperes.
+Resistor voltage: V3 = 17.4358 Volts.
+Resistor current: I3 = 0.116239 Amperes.
+Resistor voltage: V4 = 97.7655 Volts.
+Resistor current: I4 = 0.108628 Amperes.
+Resistor voltage: V5 = -29.3164 Volts.
+Resistor current: I5 = -0.0837611 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 34.8598 Volts.
+Resistor current: I1 = 0.0387331 Amperes.
+Resistor voltage: V2 = -116.777 Volts.
+Resistor current: I2 = -0.0973142 Amperes.
+Resistor voltage: V3 = 20.4071 Volts.
+Resistor current: I3 = 0.136047 Amperes.
+Resistor voltage: V4 = 92.4172 Volts.
+Resistor current: I4 = 0.102686 Amperes.
+Resistor voltage: V5 = -44.7669 Volts.
+Resistor current: I5 = -0.0639527 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 150 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 42.5656 Volts.
+Resistor current: I1 = 0.0472951 Amperes.
+Resistor voltage: V2 = -121.18 Volts.
+Resistor current: I2 = -0.100984 Amperes.
+Resistor voltage: V3 = 22.2418 Volts.
+Resistor current: I3 = 0.148279 Amperes.
+Resistor voltage: V4 = 89.1148 Volts.
+Resistor current: I4 = 0.0990164 Amperes.
+Resistor voltage: V5 = -54.3074 Volts.
+Resistor current: I5 = -0.0517213 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 27.3943 Volts.
+Resistor current: I1 = 0.0304381 Amperes.
+Resistor voltage: V2 = -61.5155 Volts.
+Resistor current: I2 = -0.0512629 Amperes.
+Resistor voltage: V3 = 24.5103 Volts.
+Resistor current: I3 = 0.081701 Amperes.
+Resistor voltage: V4 = 44.6211 Volts.
+Resistor current: I4 = 0.148737 Amperes.
+Resistor voltage: V5 = -41.4046 Volts.
+Resistor current: I5 = -0.118299 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 42.3 Volts.
+Resistor current: I1 = 0.047 Amperes.
+Resistor voltage: V2 = -73.44 Volts.
+Resistor current: I2 = -0.0612 Amperes.
+Resistor voltage: V3 = 32.46 Volts.
+Resistor current: I3 = 0.1082 Amperes.
+Resistor voltage: V4 = 41.64 Volts.
+Resistor current: I4 = 0.1388 Amperes.
+Resistor voltage: V5 = -64.26 Volts.
+Resistor current: I5 = -0.0918 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 51.75 Volts.
+Resistor current: I1 = 0.0575 Amperes.
+Resistor voltage: V2 = -81 Volts.
+Resistor current: I2 = -0.0675 Amperes.
+Resistor voltage: V3 = 37.5 Volts.
+Resistor current: I3 = 0.125 Amperes.
+Resistor voltage: V4 = 39.75 Volts.
+Resistor current: I4 = 0.1325 Amperes.
+Resistor voltage: V5 = -78.75 Volts.
+Resistor current: I5 = -0.075 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 19.66 Volts.
+Resistor current: I1 = 0.0218444 Amperes.
+Resistor voltage: V2 = -86.1067 Volts.
+Resistor current: I2 = -0.0717556 Amperes.
+Resistor voltage: V3 = 28.08 Volts.
+Resistor current: I3 = 0.0936 Amperes.
+Resistor voltage: V4 = 76.9467 Volts.
+Resistor current: I4 = 0.128244 Amperes.
+Resistor voltage: V5 = -37.24 Volts.
+Resistor current: I5 = -0.1064 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 33.625 Volts.
+Resistor current: I1 = 0.0373611 Amperes.
+Resistor voltage: V2 = -95.4167 Volts.
+Resistor current: I2 = -0.0795139 Amperes.
+Resistor voltage: V3 = 35.0625 Volts.
+Resistor current: I3 = 0.116875 Amperes.
+Resistor voltage: V4 = 72.2917 Volts.
+Resistor current: I4 = 0.120486 Amperes.
+Resistor voltage: V5 = -58.1875 Volts.
+Resistor current: I5 = -0.083125 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 42.5769 Volts.
+Resistor current: I1 = 0.0473077 Amperes.
+Resistor voltage: V2 = -101.385 Volts.
+Resistor current: I2 = -0.0844872 Amperes.
+Resistor voltage: V3 = 39.5385 Volts.
+Resistor current: I3 = 0.131795 Amperes.
+Resistor voltage: V4 = 69.3077 Volts.
+Resistor current: I4 = 0.115513 Amperes.
+Resistor voltage: V5 = -71.6154 Volts.
+Resistor current: I5 = -0.0682051 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 13.7988 Volts.
+Resistor current: I1 = 0.015332 Amperes.
+Resistor voltage: V2 = -104.742 Volts.
+Resistor current: I2 = -0.0872852 Amperes.
+Resistor voltage: V3 = 30.7852 Volts.
+Resistor current: I3 = 0.102617 Amperes.
+Resistor voltage: V4 = 101.443 Volts.
+Resistor current: I4 = 0.112715 Amperes.
+Resistor voltage: V5 = -34.084 Volts.
+Resistor current: I5 = -0.0973828 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 26.9724 Volts.
+Resistor current: I1 = 0.0299693 Amperes.
+Resistor voltage: V2 = -112.27 Volts.
+Resistor current: I2 = -0.0935583 Amperes.
+Resistor voltage: V3 = 37.0583 Volts.
+Resistor current: I3 = 0.123528 Amperes.
+Resistor voltage: V4 = 95.7975 Volts.
+Resistor current: I4 = 0.106442 Amperes.
+Resistor voltage: V5 = -53.5307 Volts.
+Resistor current: I5 = -0.0764724 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 300 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 35.4886 Volts.
+Resistor current: I1 = 0.0394318 Amperes.
+Resistor voltage: V2 = -117.136 Volts.
+Resistor current: I2 = -0.0976136 Amperes.
+Resistor voltage: V3 = 41.1136 Volts.
+Resistor current: I3 = 0.137045 Amperes.
+Resistor voltage: V4 = 92.1477 Volts.
+Resistor current: I4 = 0.102386 Amperes.
+Resistor voltage: V5 = -66.1023 Volts.
+Resistor current: I5 = -0.0629545 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 22.3349 Volts.
+Resistor current: I1 = 0.0248165 Amperes.
+Resistor voltage: V2 = -57.4679 Volts.
+Resistor current: I2 = -0.0478899 Amperes.
+Resistor voltage: V3 = 32.7179 Volts.
+Resistor current: I3 = 0.0727064 Amperes.
+Resistor voltage: V4 = 45.633 Volts.
+Resistor current: I4 = 0.15211 Amperes.
+Resistor voltage: V5 = -44.5528 Volts.
+Resistor current: I5 = -0.127294 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 36.969 Volts.
+Resistor current: I1 = 0.0410766 Amperes.
+Resistor voltage: V2 = -69.1752 Volts.
+Resistor current: I2 = -0.057646 Amperes.
+Resistor voltage: V3 = 44.4252 Volts.
+Resistor current: I3 = 0.0987226 Amperes.
+Resistor voltage: V4 = 42.7062 Volts.
+Resistor current: I4 = 0.142354 Amperes.
+Resistor voltage: V5 = -70.8942 Volts.
+Resistor current: I5 = -0.101277 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 300 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 46.6364 Volts.
+Resistor current: I1 = 0.0518182 Amperes.
+Resistor voltage: V2 = -76.9091 Volts.
+Resistor current: I2 = -0.0640909 Amperes.
+Resistor voltage: V3 = 52.1591 Volts.
+Resistor current: I3 = 0.115909 Amperes.
+Resistor voltage: V4 = 40.7727 Volts.
+Resistor current: I4 = 0.135909 Amperes.
+Resistor voltage: V5 = -88.2955 Volts.
+Resistor current: I5 = -0.0840909 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 13.6429 Volts.
+Resistor current: I1 = 0.0151587 Amperes.
+Resistor voltage: V2 = -82.0952 Volts.
+Resistor current: I2 = -0.0684127 Amperes.
+Resistor voltage: V3 = 37.6071 Volts.
+Resistor current: I3 = 0.0835714 Amperes.
+Resistor voltage: V4 = 78.9524 Volts.
+Resistor current: I4 = 0.131587 Amperes.
+Resistor voltage: V5 = -40.75 Volts.
+Resistor current: I5 = -0.116429 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 27.6143 Volts.
+Resistor current: I1 = 0.0306825 Amperes.
+Resistor voltage: V2 = -91.4095 Volts.
+Resistor current: I2 = -0.0761746 Amperes.
+Resistor voltage: V3 = 48.0857 Volts.
+Resistor current: I3 = 0.106857 Amperes.
+Resistor voltage: V4 = 74.2952 Volts.
+Resistor current: I4 = 0.123825 Amperes.
+Resistor voltage: V5 = -65.2 Volts.
+Resistor current: I5 = -0.0931429 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 600 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 36.9286 Volts.
+Resistor current: I1 = 0.0410317 Amperes.
+Resistor voltage: V2 = -97.619 Volts.
+Resistor current: I2 = -0.0813492 Amperes.
+Resistor voltage: V3 = 55.0714 Volts.
+Resistor current: I3 = 0.122381 Amperes.
+Resistor voltage: V4 = 71.1905 Volts.
+Resistor current: I4 = 0.118651 Amperes.
+Resistor voltage: V5 = -81.5 Volts.
+Resistor current: I5 = -0.077619 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 350 Ohms.
+
+Resistor voltage: V1 = 7.01748 Volts.
+Resistor current: I1 = 0.0077972 Amperes.
+Resistor voltage: V2 = -100.867 Volts.
+Resistor current: I2 = -0.0840559 Amperes.
+Resistor voltage: V3 = 41.3339 Volts.
+Resistor current: I3 = 0.0918531 Amperes.
+Resistor voltage: V4 = 104.35 Volts.
+Resistor current: I4 = 0.115944 Amperes.
+Resistor voltage: V5 = -37.8514 Volts.
+Resistor current: I5 = -0.108147 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 700 Ohms.
+
+Resistor voltage: V1 = 20.4143 Volts.
+Resistor current: I1 = 0.0226826 Amperes.
+Resistor voltage: V2 = -108.522 Volts.
+Resistor current: I2 = -0.0904354 Amperes.
+Resistor voltage: V3 = 50.9031 Volts.
+Resistor current: I3 = 0.113118 Amperes.
+Resistor voltage: V4 = 98.6081 Volts.
+Resistor current: I4 = 0.109565 Amperes.
+Resistor voltage: V5 = -60.8174 Volts.
+Resistor current: I5 = -0.086882 Amperes.
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.2 Amperes.
+Resistor: R1 = 900 Ohms.
+Resistor: R2 = 1200 Ohms.
+Resistor: R3 = 450 Ohms.
+Resistor: R4 = 900 Ohms.
+Resistor: R5 = 1050 Ohms.
+
+Resistor voltage: V1 = 29.4085 Volts.
+Resistor current: I1 = 0.0326761 Amperes.
+Resistor voltage: V2 = -113.662 Volts.
+Resistor current: I2 = -0.0947183 Amperes.
+Resistor voltage: V3 = 57.3275 Volts.
+Resistor current: I3 = 0.127394 Amperes.
+Resistor voltage: V4 = 94.7535 Volts.
+Resistor current: I4 = 0.105282 Amperes.
+Resistor voltage: V5 = -76.2359 Volts.
+Resistor current: I5 = -0.0726056 Amperes.

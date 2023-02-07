@@ -1,0 +1,149 @@
+CHAPTER 2:
+- must include 
+
+  #include <iostream> 
+  using namespace std;
+
+- cout << "Hello" 
+  - cout displays the string
+  - use << endl after string to start new line
+  - or use \n in quotes
+    - \t for tab, same from C
+
+- cout << "I have" << variable << " apples"
+  - will add value of variable if added like this
+
+- #include <string> // crucial for string class
+
+- val = 1.234f; <--- float
+- val = 1.234l; <--- long double
+
+- const var <-- constant variable
+
+CHAPTER 3:
+- cin >> ;
+	- user enters value
+
+- Look at 3.3 for data type tier list
+
+- static_cast<data type>(Value); 
+	- change data type of variable
+
+- setprecision(value)
+	- format decimal placement
+	- #include <iomanip>
+
+- cout << setprecision(2) << fixed;
+	- fixed output format
+
+- << showpoint
+	- shows trailing 0's
+
+- << left << setw(x)
+	- makes setw left justified
+
+- << endl
+	- "\n"
+
+- getline(cin, variable);
+	- reads user input with spaces
+
+- cin.get(var);
+- var = cin.get();
+- cin.get(var);
+	- pauses program until enter is pressed
+
+- cin.ignore();
+	- ignore "\n" of cin
+
+- var.length()
+	- lenght of string
+
+- #include <random>
+	- random
+- random_device myEngine;
+- uniform_int_distribution<int> randomInt(0, 100);
+	- creates random numbers 0 to 100
+- int number = randomInt(myEngine);
+- cout << randomInt(myEngine);
+	- prints random number
+
+- <cmath>
+	- math
+
+CHAPTER 4:
+- z = x < y 
+	- z is a bool. if x indeed is < y then z = 1, else z = 0
+
+- be careful comparing floating vals in if statement
+
+- if( int var = 1, x > var)
+	- initialize var in if statement
+
+- order 
+	- !
+	- &&
+	- ||
+
+- use && for in range, || for out of range
+
+- statement ? statement : statement
+	- if/else
+
+- switch (var)
+  {
+	case 'A': cout << ege;
+			break;
+	default: cout << 
+  }
+
+---------------------------------------
+
+- int num[7] = {1,2,3} // [1,2,3,0,0,0,0]
+- range based for loop 
+- int[] numbers = {3,6,9};
+  for (int val : numbers)
+  {
+	cout << val << endl;
+
+  }
+
+
+  OUTPUT: 
+  3
+  6
+  9
+
+- for (int &val : numbers)
+  {
+	cout << "enter int val";
+	cin >> val;
+  }
+// loops inputs for array numbers[x]
+
+- cannot make array variables equal each other, must use for loop to print each value to var
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

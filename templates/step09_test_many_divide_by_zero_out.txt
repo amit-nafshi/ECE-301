@@ -1,0 +1,206 @@
+ECE 0301: Circuit Solver for Voltage Divider
+and Wheatstone bridge example circuits.
+-----
+Circuit #1 (Voltage Divider)
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 1500 Ohms.
+Resistor: R2 = 2200 Ohms.
+
+Loop current: I = 0.00108108 Amperes.
+Resistor voltage: V1 = 1.62162 Volts.
+Resistor voltage: V2 = 2.37838 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 1500 Ohms.
+Resistor: R2 = 4400 Ohms.
+
+Loop current: I = 0.000677966 Amperes.
+Resistor voltage: V1 = 1.01695 Volts.
+Resistor voltage: V2 = 2.98305 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 1500 Ohms.
+Resistor: R2 = 6600 Ohms.
+
+Loop current: I = 0.000493827 Amperes.
+Resistor voltage: V1 = 0.740741 Volts.
+Resistor voltage: V2 = 3.25926 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 1500 Ohms.
+Resistor: R2 = 8800 Ohms.
+
+Loop current: I = 0.00038835 Amperes.
+Resistor voltage: V1 = 0.582524 Volts.
+Resistor voltage: V2 = 3.41748 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 1500 Ohms.
+Resistor: R2 = 11000 Ohms.
+
+Loop current: I = 0.00032 Amperes.
+Resistor voltage: V1 = 0.48 Volts.
+Resistor voltage: V2 = 3.52 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 3000 Ohms.
+Resistor: R2 = 2200 Ohms.
+
+Loop current: I = 0.000769231 Amperes.
+Resistor voltage: V1 = 2.30769 Volts.
+Resistor voltage: V2 = 1.69231 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 3000 Ohms.
+Resistor: R2 = 4400 Ohms.
+
+Loop current: I = 0.000540541 Amperes.
+Resistor voltage: V1 = 1.62162 Volts.
+Resistor voltage: V2 = 2.37838 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 3000 Ohms.
+Resistor: R2 = 6600 Ohms.
+
+Loop current: I = 0.000416667 Amperes.
+Resistor voltage: V1 = 1.25 Volts.
+Resistor voltage: V2 = 2.75 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 3000 Ohms.
+Resistor: R2 = 8800 Ohms.
+
+Loop current: I = 0.000338983 Amperes.
+Resistor voltage: V1 = 1.01695 Volts.
+Resistor voltage: V2 = 2.98305 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 3000 Ohms.
+Resistor: R2 = 11000 Ohms.
+
+Loop current: I = 0.000285714 Amperes.
+Resistor voltage: V1 = 0.857143 Volts.
+Resistor voltage: V2 = 3.14286 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 4500 Ohms.
+Resistor: R2 = 2200 Ohms.
+
+Loop current: I = 0.000597015 Amperes.
+Resistor voltage: V1 = 2.68657 Volts.
+Resistor voltage: V2 = 1.31343 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 4500 Ohms.
+Resistor: R2 = 4400 Ohms.
+
+Loop current: I = 0.000449438 Amperes.
+Resistor voltage: V1 = 2.02247 Volts.
+Resistor voltage: V2 = 1.97753 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 4500 Ohms.
+Resistor: R2 = 6600 Ohms.
+
+Loop current: I = 0.00036036 Amperes.
+Resistor voltage: V1 = 1.62162 Volts.
+Resistor voltage: V2 = 2.37838 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 4500 Ohms.
+Resistor: R2 = 8800 Ohms.
+
+Loop current: I = 0.000300752 Amperes.
+Resistor voltage: V1 = 1.35338 Volts.
+Resistor voltage: V2 = 2.64662 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 4500 Ohms.
+Resistor: R2 = 11000 Ohms.
+
+Loop current: I = 0.000258065 Amperes.
+Resistor voltage: V1 = 1.16129 Volts.
+Resistor voltage: V2 = 2.83871 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 6000 Ohms.
+Resistor: R2 = 2200 Ohms.
+
+Loop current: I = 0.000487805 Amperes.
+Resistor voltage: V1 = 2.92683 Volts.
+Resistor voltage: V2 = 1.07317 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 6000 Ohms.
+Resistor: R2 = 4400 Ohms.
+
+Loop current: I = 0.000384615 Amperes.
+Resistor voltage: V1 = 2.30769 Volts.
+Resistor voltage: V2 = 1.69231 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 6000 Ohms.
+Resistor: R2 = 6600 Ohms.
+
+Loop current: I = 0.00031746 Amperes.
+Resistor voltage: V1 = 1.90476 Volts.
+Resistor voltage: V2 = 2.09524 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 6000 Ohms.
+Resistor: R2 = 8800 Ohms.
+
+Loop current: I = 0.00027027 Amperes.
+Resistor voltage: V1 = 1.62162 Volts.
+Resistor voltage: V2 = 2.37838 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 6000 Ohms.
+Resistor: R2 = 11000 Ohms.
+
+Loop current: I = 0.000235294 Amperes.
+Resistor voltage: V1 = 1.41176 Volts.
+Resistor voltage: V2 = 2.58824 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 7500 Ohms.
+Resistor: R2 = 2200 Ohms.
+
+Loop current: I = 0.000412371 Amperes.
+Resistor voltage: V1 = 3.09278 Volts.
+Resistor voltage: V2 = 0.907216 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 7500 Ohms.
+Resistor: R2 = 4400 Ohms.
+
+Loop current: I = 0.000336134 Amperes.
+Resistor voltage: V1 = 2.52101 Volts.
+Resistor voltage: V2 = 1.47899 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 7500 Ohms.
+Resistor: R2 = 6600 Ohms.
+
+Loop current: I = 0.000283688 Amperes.
+Resistor voltage: V1 = 2.12766 Volts.
+Resistor voltage: V2 = 1.87234 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 7500 Ohms.
+Resistor: R2 = 8800 Ohms.
+
+Loop current: I = 0.000245399 Amperes.
+Resistor voltage: V1 = 1.84049 Volts.
+Resistor voltage: V2 = 2.15951 Volts.
+---
+Source voltage: Vs = 4 Volts.
+Resistor: R1 = 7500 Ohms.
+Resistor: R2 = 11000 Ohms.
+
+Loop current: I = 0.000216216 Amperes.
+Resistor voltage: V1 = 1.62162 Volts.
+Resistor voltage: V2 = 2.37838 Volts.
+-----
+Circuit #2 (Wheatstone Bridge)

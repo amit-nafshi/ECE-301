@@ -1,0 +1,23 @@
+ECE 0301: Circuit Solver for Voltage Divider
+and Wheatstone bridge example circuits.
+-----
+Circuit #1 (Wheatstone Bridge)
+---
+Source voltage: Vs = 10.5 Volts.
+Source current: Is = 0.3 Amperes.
+Resistor: R1 = 1200 Ohms.
+Resistor: R2 = 1500 Ohms.
+Resistor: R3 = 1000 Ohms.
+Resistor: R4 = 1200 Ohms.
+Resistor: R5 = 2000 Ohms.
+
+Resistor voltage: V1 = 48.1807 Volts.
+Resistor current: I1 = 0.0401506 Amperes.
+Resistor voltage: V2 = -220.934 Volts.
+Resistor current: I2 = -0.147289 Amperes.
+Resistor voltage: V3 = 187.44 Volts.
+Resistor current: I3 = 0.18744 Amperes.
+Resistor voltage: V4 = 183.253 Volts.
+Resistor current: I4 = 0.152711 Amperes.
+Resistor voltage: V5 = -225.12 Volts.
+Resistor current: I5 = -0.11256 Amperes.

@@ -1,0 +1,33 @@
+ECE 0301: Boolean Functions of 3 Variables.
+Realization in Canonical Forms.
+
+CSOP: f2 = xyz' + 
+
+Truth table for CSOP form of function 2.
+
+x	y	z	f(x,y,z)
+--------------------------------
+0	0	0	0
+0	0	1	0
+0	1	0	0
+0	1	1	0
+1	0	0	0
+1	0	1	0
+1	1	0	1
+1	1	1	0
+
+CPOS: f2 = (x' + y' + z')(x' + y' + z)(x' + y + z')(x' + y + z)(x + y' + z')(x + y' + z)(x + y + z)
+
+Truth table for CPOS form of function 2.
+
+x	y	z	f(x,y,z)
+--------------------------------
+0	0	0	0
+0	0	1	0
+0	1	0	0
+0	1	1	0
+1	0	0	0
+1	0	1	0
+1	1	0	1
+1	1	1	0
+
